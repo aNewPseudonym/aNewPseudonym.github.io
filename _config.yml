@@ -24,8 +24,8 @@ github_username: aNewPseudonym
 
 # Build settings
 markdown: kramdown
-remote_theme: broccolini/swiss
-# theme: jekyll-swiss
+theme: jekyll-swiss
+remote-theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
