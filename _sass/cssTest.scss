@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(253, 251, 246);
+    max-width: 800px;
+    min-width: 400px;
+    margin: auto;
+    font-size: 150%;
+}
+h1 {
+    color:rgb(51, 51, 51);
+    font-family: 'GT Sectra Display Super', 'serif';
+    font-size: 3em;
+    margin: 10px 5px 10px 5px;
+}
+h2 {
+    color:rgb(51, 51, 51);
+    font-family: 'Calibri', sans-serif;
+    font-size: 2em;
+    font-weight: 400;
+    margin: 10px 5px 10px 5px;
+}
+h3 {
+    color:rgb(51, 51, 51);
+    font-family: 'Calibri', sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+    margin: 15px 5px 10px 5px;
+}
+h5 {
+    color:rgb(154, 154, 154);
+    font-family: 'Calibri', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    margin: 10px 5px 10px 5px;
+}
+p {
+    font-family:'Courier New', Courier, monospace;
+    margin: 10px 5px 15px 5px;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+a {
+    font-family:'Courier New', Courier, monospace;
+    margin: 10px 5px 15px 5px;
+    font-size: 12pt;
+    font-weight: bold;
+}
+/* unvisited link */
+a:link {
+  color: rgb(122, 127, 196);
+}
+/* visited link */
+a:visited {
+  color: #494c75;
+}
+/* mouse over link */
+a:hover {
+  color: #c4bf7a;
+}
+
+hr { 
+    display: block;
+    border-style: solid;
+}
+
+hr.strong{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-width: 1px;
+    border-color: rgb(51, 51, 51);
+}
+hr.weak{
+    width: 50%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 5px;
+    margin-right: auto;
+    border-width: .5px;
+    border-color: rgb(91, 91, 91);
+}
+
+#page-description {
+    text-align: justify;
+    margin-left: 15px;
+    margin-right: 30px;
+}
+.ep-info {
+    padding-left: 10px;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: rgb(154, 154, 154);
+    margin-left: 10px;
+}
+.ep-descriptor {
+    color: rgb(91, 91, 91);
+}
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+}
+.link-set {
+    text-align: right;
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+::selection{
+    color: rgb(253, 251, 246);
+    background-color: rgb(51, 51, 51);
+}

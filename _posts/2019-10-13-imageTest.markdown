@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Final Fantasy"
 date:   2019-10-13 21:00:00 -0500
 categories: jekyll test images FF

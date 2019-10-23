@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
+# About page
 
-I made a change.
-
-I want to make posts about movies I have seen, games I have played, and books I have read.
+This page tells you a little bit about me.
