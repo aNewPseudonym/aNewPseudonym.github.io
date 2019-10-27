@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<article>
+    <h1> {{ page.title }} </h2>
+    <p> <strong>{{ page.date | date: "%B %e, %Y"}}</strong> </p>
+    <hr>
+    <div class="prose">
+        {{ content }}
+    </div>
+</article>

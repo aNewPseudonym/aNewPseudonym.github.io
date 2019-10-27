@@ -1,0 +1,32 @@
+// fonts
+@font-face {
+    font-family: "GT-Sectra-Display-Super";
+    src: url("/assets/gt-sectra/GT-Sectra-Display-Super.ttf");
+}
+$title-font-family: 'GT-Sectra-Display-Super';
+$title-font-size: 30pt;
+
+@font-face {
+    font-family: "Courier";
+    src: url("/assets/courier/CourierStd.otf");
+}
+$body-font-family: 'Courier';
+$body-font-size: 12pt;
+
+@font-face {
+    font-family: "GT-Pressura";
+    src: url("/assets/gt-pressura/gt-pressura-light-web.ttf");
+}
+$subtitle-font-family: 'GT-Pressura';
+$subtitle-font-size: 18pt;
+
+// color set
+$color-bg: rgb(253, 251, 246);
+$color-bg-tint: #e3e1dd;
+$color-black: rgb(51, 51, 51);
+$color-grey-dark: rgb(91, 91, 91);
+$color-grey-mid: rgb(154, 154, 154);
+
+$color-link-default: rgb(122, 127, 196);
+$color-link-visited: #494c75;
+$color-link-highlight: #c4bf7a;

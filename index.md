@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: home
 ---
 
-My index page.
+# Index.
 
-It's pretty empty here now.
+It's pretty empty here now. But here are some posts I've made.
