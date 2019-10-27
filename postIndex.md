@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: index
+title: Index
+permalink: /index/
 ---
-
-# Index.
 
 It's pretty empty here now. But here are some posts I've made.

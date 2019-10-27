@@ -1,12 +1,13 @@
 @import "variables";
 @import "prose";
+@import "home";
 
 * {
     box-sizing: border-box;
 }
 
 body, h1, h2, h3, h4, h5, h6,
-p, hr, dl, dd, ol, ul, nav {
+p, hr, dl, dd, ol, ul, nav, header{
     margin: 0;
     padding: 0;
 }
@@ -16,8 +17,8 @@ body {
     max-width: 800px;
     min-width: 400px;
     margin: auto;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 6px;
+    padding-right: 6px;
     font-size: 125%;
 
     font-family: $body-font-family;
@@ -26,18 +27,39 @@ body {
 }
 
 header {
-    width: 30%;
-    margin-right: 0;
-    margin-left: auto;
-    text-align: center;
-    padding: 0.5em;
-    padding-top: 1em;
-    background: $color-black;
-
+    display: flex;
+    flex-direction: row;
+    h1{
+        margin: 0;
+        padding: 12px;
+        padding-top: 12px;
+        display: inline-block;
+        background: $color-black;
+        a:link {
+            color: $color-bg;
+        }
+        // visited link
+        a:visited {
+            color: $color-bg;
+        }
+        // mouse over link
+        a:hover {
+            color: $color-link-highlight;
+        }
+        a.current-page {
+            color: $color-link-highlight
+        }
+    }
     // for navigation links
     nav {
-        display: inline;
-        color: $color-bg;
+        display: inline-block;
+        width: 30%;
+        margin-right: 0;
+        margin-left: auto;
+        text-align: center;
+        padding: 6px;
+        padding-top: 24px;
+        background: $color-black;
         a:link {
             color: $color-bg;
         }
