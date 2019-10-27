@@ -1,6 +1,6 @@
-@import "variables";
-@import "prose";
-@import "home";
+@import "variables", 
+        "prose",
+        "home";
 
 * {
     box-sizing: border-box;
