@@ -1,24 +1,41 @@
 // fonts
+
+/* dm-serif-display-regular - latin */
 @font-face {
-    font-family: "GT-Sectra-Display-Super";
-    src: url("/assets/gt-sectra/GT-Sectra-Display-Super.ttf");
+    font-family: 'DM-Serif-Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local('DM Serif Display Regular'), local('DMSerifDisplay-Regular'),
+         url('/assets/dm-serif-display/dm-serif-display-v3-latin-regular.woff2') format('woff2'),
+         url('/assets/dm-serif-display/dm-serif-display-v3-latin-regular.woff') format('woff');
 }
-$title-font-family: 'GT-Sectra-Display-Super';
+$title-font-family: 'DM-Serif-Display';
 $title-font-size: 30pt;
 
 @font-face {
-    font-family: "Courier";
-    src: url("/assets/courier/CourierStd.otf");
+    font-family: "League-Mono";
+    font-style: normal;
+    src: local('LeagueMono-Regular') , local('League Mono Regular'),
+         url('/assets/league-mono/LeagueMono-Regular.woff2'),
+         url('/assets/league-mono/LeagueMono-Regular.woff');
 }
-$body-font-family: 'Courier';
-$body-font-size: 12pt;
+$subtitle-font-family: 'Courier';
+$subtitle-font-size: 18pt;
 
 @font-face {
-    font-family: "GT-Pressura";
-    src: url("/assets/gt-pressura/gt-pressura-light-web.ttf");
+    font-family: "Linden-Hill";
+    font-style: normal;
+    src: local('Linden Hill'),
+         url('/assets/linden-hill/LindenHill-webfont.woff');
 }
-$subtitle-font-family: 'GT-Pressura';
-$subtitle-font-size: 18pt;
+@font-face {
+    font-family: "Linden-Hill";
+    font-style: italic;
+    src: local('Linden Hill Italic'),
+         url('/assets/linden-hill/LindenHill-Italic-webfont.woff');
+}
+$body-font-family: 'Linden-Hill';
+$body-font-size: 14pt;
 
 // color set
 $color-bg: rgb(253, 251, 246);
