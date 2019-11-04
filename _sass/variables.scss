@@ -13,23 +13,23 @@ $title-font-family: 'DM-Serif-Display';
 $title-font-size: 30pt;
 
 @font-face {
-    font-family: "League-Mono";
+    font-family: 'League-Mono';
     font-style: normal;
     src: local('LeagueMono-Regular') , local('League Mono Regular'),
          url('/assets/league-mono/LeagueMono-Regular.woff2'),
          url('/assets/league-mono/LeagueMono-Regular.woff');
 }
-$subtitle-font-family: 'Courier';
+$subtitle-font-family: 'League-Mono';
 $subtitle-font-size: 18pt;
 
 @font-face {
-    font-family: "Linden-Hill";
+    font-family: 'Linden-Hill';
     font-style: normal;
     src: local('Linden Hill'),
          url('/assets/linden-hill/LindenHill-webfont.woff');
 }
 @font-face {
-    font-family: "Linden-Hill";
+    font-family: 'Linden-Hill';
     font-style: italic;
     src: local('Linden Hill Italic'),
          url('/assets/linden-hill/LindenHill-Italic-webfont.woff');
