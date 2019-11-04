@@ -13,13 +13,13 @@ $title-font-family: 'DM-Serif-Display';
 $title-font-size: 30pt;
 
 @font-face {
-    font-family: 'League-Mono';
+    font-family: 'League-Mono-Light';
     font-style: normal;
-    src: local('LeagueMono-Regular') , local('League Mono Regular'),
-         url('/assets/league-mono/LeagueMono-Regular.woff2'),
-         url('/assets/league-mono/LeagueMono-Regular.woff');
+    src: local('LeagueMono-Light') , local('League Mono Light'),
+         url('/assets/league-mono/LeagueMono-Light.woff2'),
+         url('/assets/league-mono/LeagueMono-Light.woff');
 }
-$subtitle-font-family: 'League-Mono';
+$subtitle-font-family: 'League-Mono-Light';
 $subtitle-font-size: 18pt;
 
 @font-face {
