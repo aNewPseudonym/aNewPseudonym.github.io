@@ -40,7 +40,7 @@ Any moves to create a deeper bond are rebuffed. Indeed, when Young finally begin
 
 So, Young's violent reversal of the power dynamics is expected. Young's violent outburst is precipitated by the discovery of Old's log. In it, Old documented falsities regarding Young's work ethic, claiming he failed in his duties and should be severed without pay. The ultimate offense, that he would have endured all this work for no benefit, pushes Young over the edge. His pain and frustration reaches a feverish high, as he sees flashing images of the mermaid, his dead lumberjack acquaintance, and Old himself as a terrible sea god, a true representation of how Young views his domineering superior. Lashing out, Young humiliates Old and ultimately kills him, before finally ascending to the top of the lighthouse. There, he encounters the unknown, sublime glory of the lighthouse. In a cruel twist of fate, before he can even fully enter, Young slips and falls back to the bottom and dies as seagulls peck away him.
 
-===
+---
 
 This interpretation mostly works, but there are holes. Old and Young's dynamic is imbalanced, but neither character fits their respective archetype neatly. Old is strict, but at points he is also mentoring and nearly affectionate. He comes across more as kooky and eccentric, more so than a willfully manipulative authority. Like, his many stories of his past, some of which are contridictory - is the audience truly meant to understand these airy tall tales by an old man as insidious gaslighting?
 
@@ -74,7 +74,7 @@ Throughout all of this, Old is accomodating. He placates Young with drink and me
 
 Young humiliates Old by reenacting his immature perception of their relationship, in which a superior treats his subordinate like a dog. Old, nearly dead and finally able to give up on helping Young, attempts to kill Young, but Young easily disarms and kills him. Young ascends to the lighthouse, and laughs ecstatically upon viewing the light, only to slip and tumble to the bottom, where he is last seen being picked at by gulls. It's fitting. The lighthouse is a place of moral clarity, for those self-assured in their right to be there. The lighthouse rejects Young since he cheated his way to the top.
 
-===
+---
 
 This interpretation largely works as well, but it too has holes. Mainly, Old does not easily fit the role of mentor or moral center to the story. His changing stories of his life could simply be the innocent confusions of an elderly man, but their contradictions suggest a level of condescension. Old is also a poor leader and is, if not actively cruel, at least negligent. Forcing Young to paint the lighthouse is dangerous, and his lack of assistance in the various maintanence tasks is questionable. And while Young is obviously troubled, Old's only responses are either drinking or trying to enforce strict discipline.
 
@@ -86,7 +86,7 @@ Hypothesis: Both Old and Young are flawed from the outset. Old is manipulative a
 
 The inherent ambiguity of the storytelling suggests that the answer may lie in between the two extremes I have presented. The legitimacy of Young's perception of the world invites the audience to question what they see, consider the faults and virtues of both of the characters. The ultimate deaths of the two of them is not simply the result of one antagonizing the other, but the unfortunate result of two flawed men being pushed together and bouncing off one another. If even one of them had played things differently, been more understanding or accomodating, perhaps things would have gone differently.
 
-===
+---
 
 I don't really like this as a conclusion to my analysis though. It puts the film in a wishy-washy position of *'both sides are wrong,'* or even worse, *'take what you want from this story.'* The ambiguity of the story's reality seems to relieve it of any need to make an actual point. It puts out a lot of interesting imagery, and a variety of curious character interactions, and leaves it up to the audience to string together any message they wish to find. 
 
