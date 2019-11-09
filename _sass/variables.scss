@@ -1,40 +1,102 @@
 // fonts
 
-/* dm-serif-display-regular - latin */
+// grenze
 @font-face {
-    font-family: 'DM-Serif-Display';
+    font-family: 'Grenze';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Grenze Thin'), local('Grenze-Thin'),
+        url('/assets/grenze/grenze-v1-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/grenze/grenze-v1-latin-100.woff') format('woff'), /* Modern Browsers */
+}
+@font-face {
+    font-family: 'Grenze';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Grenze Thin Italic'), local('Grenze-ThinItalic'),
+        url('/assets/grenze/grenze-v1-latin-100italic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/grenze/grenze-v1-latin-100italic.woff') format('woff'), /* Modern Browsers */
+}
+@font-face {
+    font-family: 'Grenze';
     font-style: normal;
     font-weight: 400;
-    src: local('DM Serif Display Regular'), local('DMSerifDisplay-Regular'),
-         url('/assets/dm-serif-display/dm-serif-display-v3-latin-regular.woff2') format('woff2'),
-         url('/assets/dm-serif-display/dm-serif-display-v3-latin-regular.woff') format('woff');
+    src: local('Grenze Regular'), local('Grenze-Regular'),
+        url('/assets/grenze/grenze-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/grenze/grenze-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
 }
-$title-font-family: 'DM-Serif-Display';
-$title-font-size: 30pt;
-
 @font-face {
-    font-family: "League-Mono";
-    font-style: normal;
-    src: local('LeagueMono-Regular') , local('League Mono Regular'),
-         url('/assets/league-mono/LeagueMono-Regular.woff2'),
-         url('/assets/league-mono/LeagueMono-Regular.woff');
+    font-family: 'Grenze';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Grenze Italic'), local('Grenze-Italic'),
+        url('/assets/grenze/grenze-v1-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/grenze/grenze-v1-latin-italic.woff') format('woff'), /* Modern Browsers */
 }
-$subtitle-font-family: 'Courier';
+@font-face {
+    font-family: 'Grenze';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Grenze Black'), local('Grenze-Black'),
+        url('/assets/grenze/grenze-v1-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/grenze/grenze-v1-latin-900.woff') format('woff'), /* Modern Browsers */
+}
+@font-face {
+    font-family: 'Grenze';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Grenze Black Italic'), local('Grenze-BlackItalic'),
+        url('/assets/grenze/grenze-v1-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/grenze/grenze-v1-latin-900italic.woff') format('woff'), /* Modern Browsers */
+}
+$title-font-family: 'Grenze';
+$title-font-size: 36pt;
+
+// league mono
+@font-face {
+    font-family: 'League-Mono';
+    font-style: normal;
+    src: local('LeagueMono-Light') , local('League Mono Light'),
+        url('/assets/league-mono/LeagueMono-Light.woff2'),
+        url('/assets/league-mono/LeagueMono-Light.woff');
+}
+$subtitle-font-family: 'League-Mono';
 $subtitle-font-size: 18pt;
 
+// eb garamond
 @font-face {
-    font-family: "Linden-Hill";
+    font-family: 'EB Garamond';
     font-style: normal;
-    src: local('Linden Hill'),
-         url('/assets/linden-hill/LindenHill-webfont.woff');
+    font-weight: 400;
+    src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
+        url('/assets/eb_garamond/eb-garamond-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/eb_garamond/eb-garamond-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
 }
 @font-face {
-    font-family: "Linden-Hill";
+    font-family: 'EB Garamond';
     font-style: italic;
-    src: local('Linden Hill Italic'),
-         url('/assets/linden-hill/LindenHill-Italic-webfont.woff');
+    font-weight: 400;
+    src: local('EB Garamond Italic'), local('EBGaramond-Italic'),
+        url('/assets/eb_garamond/eb-garamond-v11-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/eb_garamond/eb-garamond-v11-latin-italic.woff') format('woff'), /* Modern Browsers */
 }
-$body-font-family: 'Linden-Hill';
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    src: local('EB Garamond ExtraBold'), local('EBGaramond-ExtraBold'),
+        url('/assets/eb_garamond/eb-garamond-v11-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/eb_garamond/eb-garamond-v11-latin-800.woff') format('woff'), /* Modern Browsers */
+}
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 800;
+    src: local('EB Garamond ExtraBold Italic'), local('EBGaramond-ExtraBoldItalic'),
+        url('/assets/eb_garamond/eb-garamond-v11-latin-800italic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/assets/eb_garamond/eb-garamond-v11-latin-800italic.woff') format('woff'), /* Modern Browsers */
+}
+$body-font-family: 'EB Garamond';
 $body-font-size: 14pt;
 
 // color set

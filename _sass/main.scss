@@ -77,6 +77,11 @@ header {
     }
 }
 
+nav {
+    font-family: $subtitle-font-family;
+    font-size: 12pt;
+}
+
 p {
     img {
         display: block;
@@ -98,6 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 h1, h3{
     font-family: $title-font-family;
     font-size: $title-font-size;
+    font-weight: 900;
     color: $color-black;
 }
 h2, h4, h5, h6{
