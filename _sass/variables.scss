@@ -54,13 +54,13 @@ $title-font-size: 36pt;
 
 // league mono
 @font-face {
-    font-family: 'League-Mono';
+    font-family: 'League-Mono-Light';
     font-style: normal;
     src: local('LeagueMono-Light') , local('League Mono Light'),
-        url('/assets/league-mono/LeagueMono-Light.woff2'),
-        url('/assets/league-mono/LeagueMono-Light.woff');
+         url('/assets/league-mono/LeagueMono-Light.woff2'),
+         url('/assets/league-mono/LeagueMono-Light.woff');
 }
-$subtitle-font-family: 'League-Mono';
+$subtitle-font-family: 'League-Mono-Light';
 $subtitle-font-size: 18pt;
 
 // eb garamond
