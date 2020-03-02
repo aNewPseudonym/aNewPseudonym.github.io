@@ -18,6 +18,7 @@ What is it
 
 How it plays
 
+
 What I understood of the plot through my playthrough
     - There are 4 named characters: Esther, of course, Paul, Donnelly, and Jacobson
     - There is also the Narrator, who may be one of the named characters, specifically Paul.
@@ -67,6 +68,8 @@ Poor pacing
     - the ending sucks - only time control is ripped away, it won't even let you kill yourself
 
 Briefness saves it
+    - still to long to replay comfortably - unlike Dr. Langeskov for instance
+    - maybe that's fine, expectation that you will run to google search unknown words or phrases and look up the entire script anyways
 
 ## Tacoma.
 
