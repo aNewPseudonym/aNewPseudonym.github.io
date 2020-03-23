@@ -1,23 +1,37 @@
 ---
 layout: post
 title: "On 'Dear Esther'"
+<<<<<<< HEAD
 subtitle: Part 1 of x in a series on Walking Simulators
+=======
+subtitle: Part 1 in a series on Walking Simulators
+>>>>>>> 370f5fe6c141576d6dce72fa6be7df73ee1acbdc
 date:   2019-11-07 12:00:00 -0500
 categories: game review walking-sim
 ---
 
-Inspired in part by Matthewmatosis's video on Dear Esther and Journey []
+Inspired in part by Matthewmatosis's video on Dear Esther and Journey
 
 ## Dear Esther.
 
 What is it
-    - made by The Chinese Room
-    - 2008 Half-Life 2 mod
-    - remade for release in 2012
+    - made by thechineseroom (now known as The Chinese Room)
+    - 2008 free Half-Life 2 mod
+    - remade for full release in 2012
     - rereleased again as a Unity engine game in 2017 - this is the version I played.
 
-How it plays
-
+How it plays, and Dear Esther as the "Ur-Walking Sim"
+    - an exercise in simplification and reduction - released in a time of first person shooters
+        - Call of Duty 4 (2007), surrounded by others chasing that success [Medal of Honor, Battlefield]
+        - Halo 3 (2007), Gears of War (2006)
+        - Resistance: Fall of Man, and Killzone showed PlayStation trying to occupy that space
+        - Fallout 3 (2008), series shifting into first person
+        - Hell, even Metroid Prime 3 (2007)
+        - Valve games, Half-Life 2, TF2, Left 4 Dead, all released within the past year
+    - asks, what else can we do with these tools?
+        - somewhat preempted by Portal (2007)
+        - possibly preceded by graphic adventure games told from a first-person perspective, like Myst
+        - but stripped even further, of any puzzle elements
 
 What I understood of the plot through my playthrough
     - There are 4 named characters: Esther, of course, Paul, Donnelly, and Jacobson
@@ -51,7 +65,7 @@ Writing style reminiscent of Romanticism
     - this is a positive for me, though I know it may not be for others
 
 Visuals
-    - major highlight, consistenly impressive tableaus
+    - major highlight, consistently impressive tableaus
     - caves are a highlight, as are the expansive views of the sea, the framing of the radio tower, the caves
     - only a handful of lackluster visuals - the gems, some parts of the ground, the occasional chunky rock
     - best moments are when you are moving through a stunning environment and the Narrator's words feel deeply impassioned and you make a small connection between some part from before and something you know now.
@@ -59,7 +73,7 @@ Visuals
 Failures of the randomized story telling experiment
     - threads are established, and then lost
     - notably for me: circuit diagrams, Esther's birth circumstances
-    - and even when a connection is made, the meaning is dim. Yes, I heard something similar before, and? Yes, the Narrator draws connections between himself
+    - and even when a connection is made, the meaning is dim. So yes, I heard something similar before, and? What else?
 
 Poor pacing
     - walkspeed!
@@ -67,19 +81,15 @@ Poor pacing
     - bad pairing of visuals and narration on occasion, especially towards the end - determining the scrawled writing while an English man wails
     - the ending sucks - only time control is ripped away, it won't even let you kill yourself
 
-Briefness saves it
+Brevity saves it
     - still to long to replay comfortably - unlike Dr. Langeskov for instance
     - maybe that's fine, expectation that you will run to google search unknown words or phrases and look up the entire script anyways
-
-## Tacoma.
-
-The sure, steady hand of the designer comforted me. And made me complacent?
 
 ## Comparisons.
 
 Differing origins points - Source Engine games vs. immersive sim Shock games
 
 Similar gameplay, if not the same goals - piecing together a narrative, though the outcome is not deterministic in Dear Esther
-    - in Dear Esther your interpretation is your own, and it cannot be wrond
+    - in Dear Esther your interpretation is your own, and it cannot be wrong
     - in Tacoma, there is a factual description of what happened, and when you finish it is question of how complete your understanding is
 
