@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On 'Dear Esther'"
-subtitle: Part 1 of 3 in a series on Walking Simulators
+subtitle: Part 1 of x in a series on Walking Simulators
 date:   2019-11-07 12:00:00 -0500
 categories: game review walking-sim
 ---
