@@ -2,5 +2,10 @@
     p {
         line-height: 1.25;   // within paragraph
         margin-bottom: 1.0em; // between paragraphs
+        margin-left: 1em;
+        margin-right: 0%;
+    }
+    h2 {
+        margin-bottom: 0.25em; // after header
     }
 }

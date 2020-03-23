@@ -1,0 +1,17 @@
+<footer>
+    <hr>
+    <div>
+        
+    </div>
+    <nav>
+        &emsp;
+        {% for item in site.data.footer-links %}
+            <a href="{{ item.link }}" target="_blank">
+                {{item.name}}
+            </a>
+            &emsp;
+        {% endfor %}
+    </nav>
+    <br>
+    &emsp;
+</footer>

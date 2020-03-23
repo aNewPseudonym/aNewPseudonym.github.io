@@ -50,18 +50,18 @@
         url('/assets/grenze/grenze-v1-latin-900italic.woff') format('woff'), /* Modern Browsers */
 }
 $title-font-family: 'Grenze';
-$title-font-size: 36pt;
+$title-font-size: 48pt;
 
 // league mono
 @font-face {
-    font-family: 'League-Mono-Light';
+    font-family: 'League-Mono-Thin';
     font-style: normal;
-    src: local('LeagueMono-Light') , local('League Mono Light'),
-         url('/assets/league-mono/LeagueMono-Light.woff2'),
-         url('/assets/league-mono/LeagueMono-Light.woff');
+    src: local('LeagueMono-Thin') , local('League Mono Thin'),
+         url('/assets/league-mono/LeagueMono-Thin.woff2'),
+         url('/assets/league-mono/LeagueMono-Thin.woff');
 }
-$subtitle-font-family: 'League-Mono-Light';
-$subtitle-font-size: 18pt;
+$subtitle-font-family: 'League-Mono-Thin';
+$subtitle-font-size: 24pt;
 
 // eb garamond
 @font-face {
@@ -99,13 +99,3 @@ $subtitle-font-size: 18pt;
 $body-font-family: 'EB Garamond';
 $body-font-size: 14pt;
 
-// color set
-$color-bg: rgb(253, 251, 246);
-$color-bg-tint: #e3e1dd;
-$color-black: rgb(51, 51, 51);
-$color-grey-dark: rgb(91, 91, 91);
-$color-grey-mid: rgb(154, 154, 154);
-
-$color-link-default: rgb(122, 127, 196);
-$color-link-visited: #494c75;
-$color-link-highlight: #c4bf7a;

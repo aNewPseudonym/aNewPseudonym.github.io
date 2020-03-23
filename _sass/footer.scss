@@ -1,0 +1,23 @@
+//home page settings
+
+footer{
+    nav {
+        float: right;
+        width: 50%;
+        text-align: center;
+        padding: 6px;
+        padding-top: 6px;
+        a:link {
+            color: $color-black;
+        }
+        // visited link
+        a:visited {
+            color: $color-black;
+        }
+        // mouse over link
+        a:hover {
+            color: $color-gold;
+        }
+    }
+}
+

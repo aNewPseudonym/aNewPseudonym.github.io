@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Index
+title: Index.
 permalink: /index/
 ---
 

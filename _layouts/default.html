@@ -5,11 +5,18 @@
 
     <body>
         <header>
-            <h1><a href="/">Home.</a></h1>
+            <h3><a href="/">Home.</a></h3>
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
             {% include navigation.html %}
         </header>
 
+        <br>
+
         <div>{{content}}</div>
+
+        {% include footer.html %}
         
     </body>
 

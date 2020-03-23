@@ -1,6 +1,9 @@
-@import "variables", 
+@import "variables_fonts",
+        "variables_colors",
         "prose",
-        "home";
+        "home-header",
+        "footer",
+        "extras";
 
 * {
     box-sizing: border-box;
@@ -13,7 +16,7 @@ p, hr, dl, dd, ol, ul, nav, header{
 }
 
 body {
-    background-color: $color-bg;
+    background-color: $color-cream;
     max-width: 800px;
     min-width: 400px;
     margin: auto;
@@ -26,62 +29,71 @@ body {
     color: $color-black;
 }
 
+// for navigation links
+nav {
+    font-family: $subtitle-font-family;
+    font-size: 14pt;
+    width: 40%;
+    float: right;
+    text-align: center;
+    padding: 6px;
+    padding-top: 36px;
+    //link styles
+    a:link {
+        color: $color-cream;
+        text-decoration: none;
+    }
+    // visited link
+    a:visited {
+        color: $color-cream;
+        text-decoration: none;
+    }
+    // mouse over link
+    a:hover {
+        color: $color-gold;
+        text-decoration: underline; 
+    }
+    // current page
+    a.current-page {
+        color: $color-gold;
+        text-decoration: underline;
+    }
+}
+
 header {
     display: flex;
     flex-direction: row;
-    h1{
+    h3{
+        float: right;
+        width: 30%;
+        text-align: center;
         margin: 0;
         padding: 12px;
         padding-top: 12px;
-        display: inline-block;
         background: $color-black;
+        //link styles for home button
         a:link {
-            color: $color-bg;
+            color: $color-cream;
+            text-decoration: none;
         }
         // visited link
         a:visited {
-            color: $color-bg;
+            color: $color-cream;
+            text-decoration: none;
         }
         // mouse over link
         a:hover {
-            color: $color-link-highlight;
-        }
-        a.current-page {
-            color: $color-link-highlight
+            color: $color-gold;
+            text-decoration: underline; 
         }
     }
     // for navigation links
     nav {
-        display: inline-block;
-        width: 30%;
-        margin-right: 0;
-        margin-left: auto;
-        text-align: center;
-        padding: 6px;
-        padding-top: 24px;
         background: $color-black;
-        a:link {
-            color: $color-bg;
-        }
-        // visited link
-        a:visited {
-            color: $color-bg;
-        }
-        // mouse over link
-        a:hover {
-            color: $color-link-highlight;
-        }
-        a.current-page {
-            color: $color-link-highlight
-        }
     }
 }
 
-nav {
-    font-family: $subtitle-font-family;
-    font-size: 12pt;
-}
-
+// images in body text
 p {
     img {
         display: block;
@@ -96,27 +108,44 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1em;
-    margin-bottom: 0.25em;
+    margin-top: 0.25em;
+    margin-bottom: 0em;
 }
 
-h1, h3{
+h1{
     font-family: $title-font-family;
-    font-size: $title-font-size;
+    font-size: 48pt;
+    font-weight: 900;
+    color: $color-gold;
+}
+h3{
+    font-family: $title-font-family;
+    font-size: 36pt;
+    font-weight: 900;
+    color: $color-gold;
+}
+h5{
+    font-family: $title-font-family;
+    font-size: 24pt;
     font-weight: 900;
     color: $color-black;
 }
-h2, h4, h5, h6{
+h2, h4{
     font-family: $subtitle-font-family;
     font-size: $subtitle-font-size;
     color: $color-black;
+}
+h6{
+    font-family: $subtitle-font-family;
+    font-size: 14pt;
+    color: $color-grey;
 }
 
 ul {
     display: block;
     list-style-type: none;
     li > p {
-        margin-left: 0.5em;
+        margin-left: 1em;
         margin-right: 0%;
     }
 }
@@ -129,24 +158,28 @@ hr {
     margin-left: 5px;
     margin-right: 5px;
     border-width: 1px;
-    border-color: $color-grey-mid;
+    border-color: $color-grey;
 }
 
-// link color settings
+// link settings, for index navigation
 // unvisited link
 a:link {
-    color: $color-link-default;
+    color: $color-blue;
+    text-decoration: none;
 }
 // visited link
 a:visited {
-    color: $color-link-visited;
+    color: $color-blue-dark;
+    text-decoration: none;
 }
 // mouse over link
 a:hover {
-    color: $color-link-highlight;
+    color: $color-gold;
+    text-decoration: underline;
 }
 
 ::selection{
-    color: rgb(253, 251, 246);
-    background-color: rgb(51, 51, 51);
+    color: $color-cream;
+    background-color: $color-black;
 }
+

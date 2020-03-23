@@ -5,15 +5,39 @@
 
     <body>
         <div class="home-header">
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
+            <div class="spacer-10"></div>
             {% include navigation.html %}
+            <br>
             <h1>{{ site.title }}</h1>
             <h2>{{ site.description }}</h2>
         </div>
 
-        <div>{{content}}</div>
-        <hr>
-        {% include post-index.html %}
+        <h5 class="center">
+            Latest Posts
+        </h5>
+
+        <ul>
+            {% for post in site.posts limit:3%}
+                <li>
+                    <h4>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </h4>
+                    <h6 class="all-caps">
+                        {{ post.date | date: "%B %e, %Y"}}
+                    </h6>
+                    <p>{{ post.excerpt }}</p>
+                </li>
+                <br>
+            {% endfor %}
+        </ul>
         
     </body>
+
+    {% include footer.html %}
 
 </html>
