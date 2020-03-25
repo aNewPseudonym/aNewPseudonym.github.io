@@ -139,6 +139,7 @@ h6{
     font-family: $subtitle-font-family;
     font-size: 14pt;
     color: $color-grey;
+    margin-bottom: 0.25em; // extra space after date
 }
 
 ul {
@@ -169,7 +170,7 @@ a:link {
 }
 // visited link
 a:visited {
-    color: $color-blue-dark;
+    color: $color-blue;
     text-decoration: none;
 }
 // mouse over link

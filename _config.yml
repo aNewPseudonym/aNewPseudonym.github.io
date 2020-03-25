@@ -1,7 +1,7 @@
 # Site settings
 # Any variables here can be accessed in HTML files via {{site.myVariable}}
 
-title: Anew Blog
+title: ANEW BLOG.
 
 description: >- # this means to ignore newlines until "baseurl:"
   Writings and such.
