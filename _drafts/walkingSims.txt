@@ -1,7 +1,7 @@
 Definitely Walking Simulators, Probably:
 - Dear Esther (2008, 2012, 2017)
+- Gravity Bone (2008)
 - The Path (2009)
-- Gravity Bone (2010)
 - The Stanley Parable (2011, 2013)
 - Thirty Flights of Loving (2012)
 - The Unfinished Swan (2012)
@@ -54,6 +54,7 @@ Adjacent Games: Minimal Horror Explorations
 - P.T. (2014)
 - SOMA (2015)
 
-Adjacent Games: Minimal Adventures
+Adjacent Games: Minimal Adventure Games
 - ICO (2001), Shadow of the Colossus (2005), The Last Guardian (2016)
 - Undertale (2015), and the legacy of Earthbound
+- Diaries of a Spaceport Janitor (2016)

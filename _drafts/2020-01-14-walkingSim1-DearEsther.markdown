@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "On 'Dear Esther'"
-<<<<<<< HEAD
 subtitle: Part 1 of x in a series on Walking Simulators
-=======
-subtitle: Part 1 in a series on Walking Simulators
->>>>>>> 370f5fe6c141576d6dce72fa6be7df73ee1acbdc
 date:   2019-11-07 12:00:00 -0500
 categories: game review walking-sim
 ---
@@ -16,9 +12,10 @@ Inspired in part by Matthewmatosis's video on Dear Esther and Journey
 
 What is it
     - made by thechineseroom (now known as The Chinese Room)
-    - 2008 free Half-Life 2 mod
-    - remade for full release in 2012
-    - rereleased again as a Unity engine game in 2017 - this is the version I played.
+    - June 2008 free Half-Life 2 mod
+    - remade for full release in February 2012
+    - rereleased again as a Unity engine game in 2017, functionally the same as the 2012 version
+        - this is the version I played.
 
 How it plays, and Dear Esther as the "Ur-Walking Sim"
     - an exercise in simplification and reduction - released in a time of first person shooters
