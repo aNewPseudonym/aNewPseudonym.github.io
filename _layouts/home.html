@@ -24,9 +24,9 @@
         <ul>
             {% for post in site.posts limit:3%}
                 <li>
-                    <h4>
+                    <h2>
                         <a href="{{ post.url }}">{{ post.title }}</a>
-                    </h4>
+                    </h2>
                     <h6 class="all-caps">
                         {{ post.date | date: "%B %e, %Y"}}
                     </h6>

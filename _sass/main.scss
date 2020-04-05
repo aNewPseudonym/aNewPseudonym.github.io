@@ -69,7 +69,6 @@ header {
         text-align: center;
         margin: 0;
         padding: 12px;
-        padding-top: 12px;
         background: $color-black;
         //link styles for home button
         a:link {
@@ -130,22 +129,34 @@ h5{
     font-weight: 900;
     color: $color-black;
 }
-h2, h4{
+h2{
     font-family: $subtitle-font-family;
     font-size: $subtitle-font-size;
     color: $color-black;
+}
+h4{
+    font-family: $subtitle-font-family;
+    font-size: 18pt;
+    color: $color-black;
+    margin-top: 0.0em;
+    margin-bottom: 0.5em;
 }
 h6{
     font-family: $subtitle-font-family;
     font-size: 14pt;
     color: $color-grey;
-    margin-bottom: 0.25em; // extra space after date
+    margin-top: 0.25em;   // extra space before date
+    margin-bottom: 0.5em;  // extra space after date
 }
 
 ul {
     display: block;
     list-style-type: none;
     li > p {
+        margin-left: 1em;
+        margin-right: 0%;
+    }
+    li {
         margin-left: 1em;
         margin-right: 0%;
     }

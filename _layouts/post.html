@@ -4,10 +4,9 @@ layout: default
 
 <article>
     <h3> {{ page.title }} </h3>
+    <h4> {{ page.subtitle }} </h4>
     <h6> {{ page.date | date: "%B %e, %Y"}} </h6>
-
-    <br>
-    
+    <hr>
     <div class="prose">
         {{ content }}
     </div>

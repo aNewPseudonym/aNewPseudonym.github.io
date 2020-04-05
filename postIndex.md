@@ -4,4 +4,4 @@ title: Index.
 permalink: /index/
 ---
 
-It's pretty empty here now. But here are some posts I've made.
+It's a bit empty here right now, but here's a list of all the posts I've made.

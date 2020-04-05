@@ -1,0 +1,88 @@
+Landmark Edition - Director's Commentary - Notes
+
+Dan Pinchbeck - creative designer and writer
+Jessica Curry - music director
+Robert Briscoe - level designer and artist
+
+Aiming high with visual goals
+    randomized elements
+
+Randomization and replay differences were an important goals
+
+Music originally composed for samples, rerecorded with live players
+
+The game is a "dream" - the music, landscape, and words meant to convey dreamline state
+
+"Dreamlike words" - actively moving away from the directness/literalness of videogame worlds
+
+Does have a gameplay loop! Bursts of engagement, each one targeting an overall mood
+    akin to Halo
+
+Subliminal symbols around environment
+    Many changes from original
+    Many hidden objects to reward player exploration
+
+Hebridean island as setting
+    island provides natural level constraints
+    drew on history - stuff like white chalk lines could not be made up
+    stark, depressing landscape very evocative
+
+Designed level with irl clay?
+
+Music evolves over play - changes, amplifies, breaks down
+
+"Psychogeography"
+    no video games are real places, so why not lean into the artistic potential of unreality
+
+Major visual upgrade in remakes
+
+Title taken from "Faith No More" song "The Crab Song"
+    sounded evocative, built plot from that
+
+Didn't set out to write a plot, more just assembling a variety of compelling things
+
+Lots of time to think - music and voiceover is not over present
+
+The island is the primary character
+
+The 1st walking sim!
+    Walking speed and minimalism did not seem revolutionary to developers at the time
+    Quiet moments existed in many other games
+
+Music director (name?) had never worked on a game before
+
+Radio tower as a guide and beacon for players - akin to HL2 Citadel
+
+3 narrative options per moment, 4 for remakes
+
+Randomization opened up undesigned story possibilities to developers
+    Ultrasound picture surprised a dev in a playthrough
+
+Aesthetic was aiming for photorealism, but not fully impressionistic
+    somewhere inbetween?
+
+Influences - DOOM, System Shock, STALKER
+
+Intentionally eschewing players ability to understand island as a real place, things that don't make sense
+
+Hallucination of road in caves - new to remake
+    a dream within a dream, going deeper and deeper
+    heartbeat audio
+    usually a car, could be a gurney
+
+Journey through the caves as a kind of rebirth
+    Voice singing "always, always, never"
+
+Music hidden elements - morse code spelling Esther
+
+Players' interpretation of the story just as important as the designers
+    Who was responsible for the crash?
+    Paul? Unintended possibilities
+
+Struggled with describing the game upon initial release
+    Have accepted "walking sim" as a genre definition term, has a recognizable identity now
+
+Walking sims are simple but far from lazy
+
+Disagreement among devs about losing control in the finale
+    necessity with timing music and such...
