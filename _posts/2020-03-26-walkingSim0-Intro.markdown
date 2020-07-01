@@ -3,7 +3,7 @@ layout: post
 title: "On Walking Simulators: An Intro"
 subtitle: Part 0 of x in a series on Walking Simulators
 date:   2020-04-29 12:00:00 -0500
-categories: game walking-sim intro
+categories: game walking-sim
 ---
 The past decade, roughly, has seen the emergence of a latent video game genre - the walking simulator. 
 
