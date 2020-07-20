@@ -2,7 +2,7 @@
 layout: post
 title: "On The Twilight Zone 2019, Season 1"
 subtitle: Ranking and Reviewing All Episodes
-date:   2020-06-30 12:00:00 -0500
+date: 2020-06-30 12:00:00 -0500
 categories: tv
 ---
 
