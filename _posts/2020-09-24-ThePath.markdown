@@ -6,11 +6,11 @@ date: 2020-09-24 12:00:00 -0500
 categories: game walking-sim
 ---
 
-## Love in the Wires
-
 > if ( 1 + 1 == 1 ) { e8z = true; };
 
 This line of pseudo-code expresses the start of lifelong partnership between Auriea Harvey and Michaël Samyn, in art, in work, and in love. This phrase greets you upon entering entropy8zuper.org, the online art gallery and love child of this two.
+
+## Love in the Wires
 
 Harvey and Samyn met in 1999 while they were staring at a screen. They were early adopters and pioneers of the web, using the unprecedented tools and connectivity not to try to make a quick buck, as many were attempting in the ill-fated dot-com bubble that was expanding at the time, but to create art. Harvey was living in New York and working as a web designer and net-artist, operating out of her personal website Entropy8 (the e8 in the expression). Michaël Samyn was working in similar circles in Belgium, with Zuper! as his pseudonym and personal homepage (the z in the expression). The two digital graphic artists met on the mysterious, exclusive, and now-defunct net-artist congregating site, hell.com - they love to mention in interviews and blog posts that they met in hell. Their interest in each other quickly turned into collaboration and then love. They soon merged their respective sites and practices into one - entropy8zuper.com (e8z == true) - and began a series of ambitious projects that pushed the limits of what was possible with the web at the time.
 
