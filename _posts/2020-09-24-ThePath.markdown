@@ -10,7 +10,7 @@ categories: game walking-sim
 
 This line of pseudo-code expresses the start of lifelong partnership between Auriea Harvey and Michaël Samyn, in art, in work, and in love. This phrase greets you upon entering entropy8zuper.org, the online art gallery and love child of these two creatives.
 
-## Love in the Wires
+## Love in the Wires.
 
 Harvey and Samyn met in 1999 while they were staring at a screen. They were early adopters and pioneers of the web, using the unprecedented tools and connectivity not to try to make a quick buck, as many were attempting in the ill-fated dot-com bubble that was expanding at the time, but to create art. Harvey was living in New York and working as a web designer and net-artist, operating out of her personal website Entropy8 (the e8 in the expression). Michaël Samyn was working in similar circles in Belgium, with Zuper! as his pseudonym and personal homepage (the z in the expression). The two digital graphic artists met on the mysterious, exclusive, and now-defunct net-artist congregating site, hell.com - they love to mention in interviews and blog posts that they met in hell. Their interest in each other quickly turned into collaboration and then love. They soon merged their respective sites and practices into one - entropy8zuper.com (e8z == true) - and began a series of ambitious projects that pushed the limits of what was possible with the web at the time.
 
@@ -42,7 +42,7 @@ It is not that art cannot exist or even flourish of Web 2.0. Indeed, the main be
 
 Abandoning their dreams of web paradise in 2002, Harvey and Samyn, apparently always keen on being at the forefront of the new, turned to the nascent sphere of online-distributed, independent videogames. To do so, they founded Tale of Tales.
 
-## The Birth of Tale of Tales
+## The Birth of Tale of Tales.
 
 Auriea Harvey and Michaël Samyn came to games from an unusual angle. Independent game developers have existed in some form since the dawn of the medium, whether as modders or hobbyists or shareware developers through the 80s and 90s. But the challenges of physical distribution maintained a difficult-to-cross barrier for those looking to enter the industry, forcing most developers to work with established publishers.
 
@@ -60,7 +60,7 @@ From their influences, it is clear that Harvey and Samyn were enamored by videog
 
 With their curious bundle of influences and unusual professional background, Harvey and Samyn set out to make a game adhering to the qualities that they personally loved about videogames.
 
-## The Early Work of Tale of Tales
+## The Early Work of Tale of Tales.
 
 Their first attempt was not a failure, but it was never released. 
 
@@ -108,7 +108,7 @@ Through its existence alone, The Graveyard questions videogame tropes, but I fou
 
 {% include figure-parallax.html src="/media/TaleOfTales/ThePath_selectScreen.jpg" description="The Path" %}
 
-## Exploring The Path
+## Exploring The Path.
 
 In 2009, Tale of Tales released their largest and most feature-complete game up to that point. *The Path* feels like an assemblage of pieces of all of their previous works. As *Book of 8* was intended to be a retelling of various Sleeping Beauty stories, *The Path* is an original retelling of various versions of the Little Red Riding Hood story. The character design of *Book of 8*'s girl in a white dress was even repurposed for a role in *The Path*. In it, the player controls any one of set of 6 sisters in an infinitely looping forest, built from the technology for *The Endless Forest*. An ever-shifting collage of 2D graphics overlay the screen at all times, drawn in a messy yet intricate style that evokes much of Harvey and Samyn's net-art pieces. And the gameplay is fixated on inevitable death in a similar way to *The Graveyard*.
 
@@ -160,7 +160,7 @@ In their own words, Tale of Tales craft "narrative environments" rather than tel
 
 It is an easy game to return to because there is no end to *The Path.* Once all the sisters have met their wolves, the mysterious Girl in White can be played in a sort of epilogue. She runs around a rain-drenched forest and can visit all of the other girl's sites before proceeding to grandmother's house. The bedroom is a combination of all of the sister's nightmares. Afterwards, the Girl in White appears back on the character select screen, and all the sisters filter back in, ready to be played again. The game is a continuous cycle, an open narrative environment to explore.
 
-## Conclusion
+## Conclusion.
 
 Auriea Harvey and Michaël Samyn have always been pushing at the limits of what is possible with a computer, first at the limits of what was technologically possible on the Internet during their net-art days, and then at the limits of what was conventionally accepted in videogames as Tale of Tales. They have always been dreaming of what is possible virtually.
 
