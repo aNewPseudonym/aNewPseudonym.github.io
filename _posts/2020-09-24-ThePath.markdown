@@ -2,7 +2,7 @@
 layout: post
 title: "The Path, and Dreams of a Virtual Possible."
 subtitle: Part 3 of x in a series on Walking Simulators
-date: 2020-08-24 12:00:00 -0500
+date: 2020-09-24 12:00:00 -0500
 categories: game walking-sim
 ---
 
