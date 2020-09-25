@@ -1,0 +1,231 @@
+---
+layout: post
+title: "The Path, and Dreams of a Virtual Possible."
+subtitle: Part 3 of x in a series on Walking Simulators
+date: 2020-08-24 12:00:00 -0500
+categories: game walking-sim
+---
+
+## Love in the Wires
+
+> if ( 1 + 1 == 1 ) { e8z = true; };
+
+This line of pseudo-code expresses the start of lifelong partnership between Auriea Harvey and Michaël Samyn, in art, in work, and in love. This phrase greets you upon entering entropy8zuper.org, the online art gallery and love child of this two.
+
+Harvey and Samyn met in 1999 while they were staring at a screen. They were early adopters and pioneers of the web, using the unprecedented tools and connectivity not to try to make a quick buck, as many were attempting in the ill-fated dot-com bubble that was expanding at the time, but to create art. Harvey was living in New York and working as a web designer and net-artist, operating out of her personal website Entropy8 (the e8 in the expression). Michaël Samyn was working in similar circles in Belgium, with Zuper! as his pseudonym and personal homepage (the z in the expression). The two digital graphic artists met on the mysterious, exclusive, and now-defunct net-artist congregating site, hell.com - they love to mention in interviews and blog posts that they met in hell. Their interest in each other quickly turned into collaboration and then love. They soon merged their respective sites and practices into one - entropy8zuper.com (e8z == true) - and began a series of ambitious projects that pushed the limits of what was possible with the web at the time.
+
+They began with love letters. They exchanged small interactive webpages with each other while courting each other's affection from half a world away. Many of these have been curated and preserved as an art collection entitled *skinonskinonskin*. These Flash pages allowed them to interact with virtual pieces of each other's bodies, touching their chest, hands, faces, while hearing heartbeats and breathy invitations to do more. It's a sensual and tactile experience in a way that few digital things are. 
+
+To facilitate closeness while they were separated, they created their own platform to share their lives with each other. underyourdesk was a chat platform just for the two of them that transcended the simplistic pure text applications available at the time. In underyourdesk, they could text message, but also share images and upload music to play for each. They could link their webcams so they could see each other. They had clocks for each of their time zones. They could keep underyourdesk open at all times, while they worked and slept, so they had a line of communication to each other at all times. Harvey recalls getting awoken by Samyn by him playing a song for her. They intentionally avoided voice communication though. In this time, they never spoke on the phone. They created, instead, "a poetic fantasy" on the web. Perhaps they feared that the literalness and expected cadences of voice communication would intrude on that fantasy. The space they created was quirky, intimate, and all their own. A wire connecting New York and Belgium.
+
+They wanted to make their communications public, in a sort of artistic exhibitionism. So, the intimacy of their skinonskinonskin love letters and the novel communication platform of underyourdesk combined and evolved into Wirefire, an online public performance space. Accessible by anyone at all times, the website allowed Harvey and Samyn to create live, interactive net-art. They could display and layer images and Flash animations to create spontaneous collages. They could play music and sounds. And they could message with each in text that would appear on screen, on full display to any audience that was present for their weekly performances, scheduled for midnight in Belgium, every Thursday for 3 years. Their audience could interact as well. Every person present and watching the stream would appear on screen as a dark grain of sand, which would cluster together to form swirling masses. The Flash animations would frequently be interactable, allowing for users to click on screen to produce local effects, like hitting a gong, or exploding a bomb. And the audience would contribute to a group chat that would scroll by on screen, giving thoughts and feedback and being involved in the performance. Like all of Harvey and Samyn's work, the results were messy, textured, a bit exhibitionist, and very intimate. A little virtual oasis for anyone who could find it.
+
+{% include figure-center.html 
+    src="/media/TaleOfTales/wirefire_finale.jpg" 
+    description="The final performance of Wirefire, preserved only in screenshots." %}
+
+Harvey and Samyn carried on like this for 3 years. Within a year of meeting, Harvey relocated to Belgium to be with Samyn. Along with continuing to evolve and produce Wirefire, they made other net-art projects, notably their Godlove Museum project. It is a collection of 5 net-art pieces, each named for a section of the Bible, that documented everything from their personal love story to contemporary world events. Featuring complex interactive collages that includes diverse elements like Harvey's and Samyn's faces and hands overlaid with images of planes and bombs and stock prices, while audio clips of George Bush play in the background, the work tells an abstracted narrative of finding digital love in the tumult of the early 2000s.
+
+This online love story was set in the utopian frontiers of the earlier web, but it couldn't stay there. Web 1.0 was put in its grave by Web 2.0 sometime between 2004 and 2006, and Harvey and Samyn saw the end of their online paradise coming down the road earlier than most. 
+
+Web 2.0 is characterized by the death of the self-contained individual website and the rise of the site-as-platform. Social media platforms dominate the online landscape, at the expense of curated, personal websites. Seeking out websites by following links and addresses becomes old-fashioned, as content is brought directly to you, via feeds, homepages, and notifications. Everything is easily shareable and thus hard to source - any image may have taken hundreds of bounces across sites before it lands before you on your screen. Comment sections and threads supersede direct messaging. A visitor to a site becomes a user of a platform, and thus, by being counted and tracked, becomes a commodity. To engage with anything online is no longer a pure attempt at communication, it is feeding an advertisement-driven industry. Engagement is reduced to numbers - numbers of follows, or likes, or shares, or comments, all of which feed into countless algorithms that, in their unknowable methods, are producing revenue for someone, somewhere, somehow.
+
+Harvey and Samyn saw their virtual wild west becoming civilized and standardized. In a 2011 interview, Harvey recalls, "Web 2.0 destroyed the beautiful romantic utopia that we and our colleagues had built in cyberspace. And we didn’t feel our artistic work still worked within this new shopping mall-like environment." The ending of the final entry in the Godlove Museum, Deuteronomy, indicates their fears perhaps most succinctly. Released in 2006, well after Harvey and Samyn had accepted the death of Web 1.0, the interactive art experience ends with infinite social media buttons raining down onto an enlarged cursor. Infinite buttons implored me to click them and engage - "+ My Yahoo!," "Add to Google," "Subscribe with iTunes," "SIGN UP!," "SIGN UP!," "SIGN UP!" How could Harvey and Samyn's art that invited visitors to engage with their vision of personal intimacy exist in this landscape of infinite content?
+
+{% include figure-center.html 
+    src="/media/TaleOfTales/deutoronomy_end_2.png" 
+    description="" %}
+
+So, after three years of weekly performances, they brought an end to Wirefire. "Wirefire hasn't changed but the net has" Samyn wrote in the final Wirefire performance, on January 9, 2003, a performance now preserved for posterity only in screenshots. "i feel a bit like a dinosaur doing these weekly performances." Though he felt like a relic, in retrospect, Samyn and Harvey's work feels far ahead of the curve, even today. Their Wirefire performances, that feature them on camera and interacting with a live audience via text chat, recalls contemporary Twitch or YouTube livestreams. Even with the lo-fi nature of Wirefire, with it's chunky low resolution and sharply compressed audio clips, it feels far more personable than contemporary livestreaming platforms. The interactivity of Wirefire exceeds anything currently possible on popular contemporary platforms, and, possibly most importantly, it was a space not mediated by profit motives for gargantuan corporations.
+
+It is not that art cannot exist or even flourish of Web 2.0. Indeed, the main benefit of Web 2.0 is it's accessibility. Harvey and Samyn were unique creatures in Web 1.0, having full mastery over the creation tools available at the time and thus were granted access to their online utopia. Today, anyone can post anything, anywhere. As a result, there is infinite art and craft available online today, much it good and beautiful. But there is very little intimacy.
+
+Abandoning their dreams of web paradise in 2002, Harvey and Samyn, apparently always keen on being at the forefront of the new, turned to the nascent sphere of online-distributed, independent videogames. To do so, they founded Tale of Tales.
+
+## The Birth of Tale of Tales
+
+Auriea Harvey and Michaël Samyn came to games from an unusual angle. Independent game developers have existed in some form since the dawn of the medium, whether as modders or hobbyists or shareware developers through the 80s and 90s. But the challenges of physical distribution maintained a difficult-to-cross barrier for those looking to enter the industry, forcing most developers to work with established publishers.
+
+Tale of Tales was founded just as that barrier began to crumble. Internet access was becoming increasingly common, and though that dampened Harvey and Samyn's dreams of net-art, it opened up new possibilities for online game distribution. A year before Valve would launch Steam, and two years before Microsoft would launch Xbox Live Arcade, and more than half a decade before the Cambrian explosion of indie games post-2008, Tale of Tales quietly began making videogames in 2002.
+
+Harvey and Samyn's inspirations were far from typical. The works they cite as influences are generally confined to that somewhat awkward transition period from 2D to 3D, in the late 90s and early aughts. This was not nostalgia driving them towards games, but an excitement for the strange current state of the medium. Some of their key influences are expected for passionate videogame hobbyists at the turn of the century; Silent Hill 2 and 3 hooked them with their dark, complex, and confusing stories, and they were awed by ICO's minimalist gameplay stylings and intricately crafted world. ICO remains one of the clearest and most lasting influences on all of Tale of Tales's work to date.
+
+But many of their other influences are surprising. In a blog post, they reference their love of Tekken 3, not for its fighting game mechanics, but for its use as a set of virtual puppets. In a 2015 blog post, they recall their time playing Tekken with each other in decidedly non-traditional ways:
+
+> "It’s a two-player fighting game but we played it as a romance and sex game. We loved how we could make our avatars interact with each other. And we invented stories about how Ling Xiaoyu would visit Jin Kazama’s house and they would end up making out on the floor."
+
+They have also occasionally cited *Black and White* as a major inspiration, Peter Molyneux's ambitious god-simulation game. Critically lauded upon release, though somewhat derided as overrated in subsequent years, Harvey and Samyn lovingly recall hours spent playing with this genius and flawed game. They were amazed by the virtual ecology created within their computer, filled with creatures who hardly resembled anything in the real world but were alive in their own way. "It was real! A real computer being." they wrote in 2015, still excited about that virtual world, even years removed from their first contact with it.
+
+From their influences, it is clear that Harvey and Samyn were enamored by videogames for their playful and expressive qualities. Completing challenges by besting puzzles or combat encounters by mastering a game's mechanics holds little interest to them. They were far more interested in open-ended play that was not oriented towards achieving a goal. Even in ICO, they were not compelled by its puzzles or combat, but by the peaceful moments spent with Yorda, their virtual friend and partner, chasing birds in abandoned gardens and leading her by the hand to admire a waterfall. They consider this to be Fumito Ueda's masterpiece, and have expressed disappointment in Fumito Ueda's follow-up, *Shadow of the Colossus.* Given that game is a lonely foray into a bleak world with a mechanical focus on, as Samyn put it in a comment thread on a 2008 blog post, "kill[ing] big fluffy teddy bears," perhaps it's unsurprising that it didn't suit Harvey and Samyn's tastes.
+
+With their curious bundle of influences and unusual professional background, Harvey and Samyn set out to make a game adhering to the qualities that they personally loved about videogames.
+
+## The Early Work of Tale of Tales
+
+Their first attempt was not a failure, but it was never released. 
+
+{% include figure-right.html 
+    src="/media/TaleOfTales/ToT--8--20040728--Musing.jpg" 
+    description="" %}
+
+*8,* or *Book of 8* was intended to be an interactivity retelling of various versions of the Sleeping Beauty fairytale. Tale of Tales worked on it from 2002 through 2005, and intermittently in the following years, but never brought it to completion. Though they couldn't ever quite figure out what the game ought to be, it helped them figure out what they didn't want in their games. In a 2010 presentation on their games, they list all the things they wanted *8* to **not** be. Many of these are rejections of mechanics-focused game elements, things that were ditched in similarly minimalist walking-sims like *Dear Esther*:
+
+> No competition. No genre. No guns. No dying. No game over. No levels. No boss rounds. No scores. No saving.
+
+Other rejections indicate a desire for accessibility. They wanted to create experiences that did not necessarily require a pre-existing literacy with games:
+
+> No buttons. No menus. No icons. No motion sickness.
+
+Still other rejections indicate a distaste for the childish nature of many mainstream games, and their simplistic narrative stylings:
+
+> No canned storylines. No bleak personalities. No more superficial juvenile games. No pre-chewed plots.
+
+Their game would feature a young deaf-mute black girl as the main character, though the player would not be in direct control of her. She would be autonomous and the player could influence her behavior and give her directions only indirectly through a simple point-and-click interface. Together, the player and the girl would explore a palace frozen in time, as in the Sleeping Beauty tale, but there would not be typical game puzzles to solve. According to their still active website for the project, the game would emphasize "playing, not gaming." So, for every obstacle the player could encounter, there would be multiple solutions and multiple possible outcomes.
+
+The limited information and gameplay footage available for *8* online indicates a tremendously ambitious project for two novice game developers to undertake. Though they also cite funding issues, it seems that for all that Tale of Tales wanted *8* not to be, they had a difficult time realizing what the game actually should be. In a blog post, Tale of Tales mentions that they were interested in crafting characters and worlds for the game, but had little interest in developing the gameplay. They added puzzles as if by obligation, and hired a gameplay designer to take care of some of the low-level game design challenges.
+
+{% include figure-right.html 
+    src="/media/TaleOfTales/4ways_to_get_magic.jpg" 
+    description="" %}
+
+So, Tale of Tales decided to put *8* on hiatus and turned their focus to a new project called The Endless Forest, released in 2005. The Endless Forest is an online multiplayer game and "social screensaver," as described by its developers. It can be set up an your computer to be run as a screensaver when your computer goes to sleep. In the game, you wander around a partially procedurally generated, infinite forest as a mystical deer-like creature. You can encounter other players as deer and interact with them with a limited series of actions, like casting appearance-altering spells and performing gestures. There is no text or voice chat, but you can "speak" by displaying abstract pictograms above your head.
+
+The forest is also populated by hand-crafted locations players can discover. Some of these are natural formations, like large rock outcrops, and giant oak trees. Others are ruined remains of old structures, like an old watering hole and a decayed cathedral. The world is lush and vibrant and ancient. The influences of ICO are subtly felt in the game's ambience and environmental design. The gameplay is as enigmatic as the world it takes place in. In my short time exploring the forest, I wandered about ruins and through thin forests of different tree varieties. I found a spot with strange symbols on the ground and found myself transformed into a bat. I slept in a sunlight clearing by a large boulder.
+
+The creation of a virtual social space that intentional eschews traditional, literal forms of communication recalls Harvey and Samyn's earlier platforms *underyourdesk* and Wirefire. Just as underyourdesk was designed to be an always open application running in the background of each other's computers, providing a way for the distant lovers to surprise each other with images and music at any time, The Endless Forest is meant to be a pleasant surprise to return to when you step away from your computer. And just as Wirefire was a constantly evolving virtual hangout space, The Endless Forest has been an ongoing project for over a decade now. Over many phased releases and expansions following its initial release, Tale of Tales have added areas, interactions, and timed events to The Endless Forest. Just as Harvey and Samyn were the central performers in Wirefire, creating interactive events during their weekly performances, they occupy a god-like role in The Endless Forest. There is no automatic day-night cycle or weather cycle or seasonal cycle. When changes happen in the game world, it is because the developers entered the world and caused it to happen. Rather than a world run by the uncaring god of set timers and pre-programmed events, The Endless Forest has two loving gods, Twin Gods as they refer to themselves in the lore on the game's website, who watch over their creation from a close distance. It is a blend of two of Harvey and Samyn's great loves - intimate virtual spaces, and god-simulation in the style of *Black and White.*
+
+The Endless Forest lives on. In late 2019, Tale of Tales launched an Indiegogo campaign to keep the game alive for an additional decade. After successful funding, they started development of a remake of the game in the Unreal engine which has been their main project through 2020. To this day, the game's forums remain active with players.
+
+In 2006, Tale of Tales began work on the project that develop into their horror-exploration game *The Path.* While working on that, another large and ambitious project for the small studio, Tale of Tales took break in development, pulled back their scope and created a tiny game: *The Graveyard,* a miniscule single-player experience about an old lady visiting a graveyard.
+
+{% include figure-center.html 
+    src="/media/TaleOfTales/TheGraveyard_bench.jpg" 
+    description="" %}
+
+The Graveyard works, in part, as a metacommentary on games. Similar to the deconstructionist work of Blendo games, particularly Gravity Bone, The Graveyard calls into question the standard format of a videogame by intentionally subverting its tropes. In The Graveyard, the player controls an elderly lady visiting a graveyard. The player can walk down a linear path towards a bench where, if the lady is carefully positioned in front of it, the lady will gingerly sit herself down. If the lady sits there for a short period of time, a song begins to play. At some point in the song, the lady may die, at which point the player loses control of their avatar for the remaining duration of the song. But the player can also get up at any point before then and walk out the gates of the graveyard, and even refuse to sit down on the bench altogether. The random outcome of the lady's death eschews conventions of skill-based play determining outcomes in a game, and the subsequent loss of control presents the death as a valid outcome in this scenario, instead of a fail-state meant to be avoided by the player.
+
+Through its existence alone, The Graveyard questions videogame tropes, but I found it also serves as an effective empathy generator for the game's unnamed character. She moves slowly, in a labored skip and hop motion aided by a cane. When she sits on the bench, she looks back solemnly at the field of headstones she walked past to get here. The song that plays, an original song by musician Gerry de Mol called "Komen te gaan" or "Come to go," sounds like an old Dutch folk song. The lyrics, translated to English in subtitles, mention various people who have died and been buried. Perhaps the lady is thinking of this song as she sits. Or perhaps the people referenced in the song are the ones the old lady is thinking about as she sits on the bench, buried somewhere in this graveyard. Perhaps she is the only one who still visits them. The final verse of the song has a line that translates to, "Maybe next time, next time perhaps, I will stay." Play through the game a few times and the lady will likely die at least once. The quiet inevitability of death hangs over the experience, effectively creating a simple melancholy. Still, I could be content just sitting on the bench, enjoying the view of the beautiful church, observing the subtly shifting light as clouds pass overhead, and watching the birds come and go.
+
+{% include figure-parallax.html src="/media/TaleOfTales/ThePath_selectScreen.jpg" description="The Path" %}
+
+## Exploring The Path
+
+In 2009, Tale of Tales released their largest and most feature-complete game up to that point. *The Path* feels like an assemblage of pieces of all of their previous works. As *Book of 8* was intended to be a retelling of various Sleeping Beauty stories, *The Path* is an original retelling of various versions of the Little Red Riding Hood story. The character design of *Book of 8*'s girl in a white dress was even repurposed for a role in *The Path*. In it, the player controls any one of set of 6 sisters in an infinitely looping forest, built from the technology for *The Endless Forest*. An ever-shifting collage of 2D graphics overlay the screen at all times, drawn in a messy yet intricate style that evokes much of Harvey and Samyn's net-art pieces. And the gameplay is fixated on inevitable death in a similar way to *The Graveyard*.
+
+At the start of each play session, the player selects a sister to control on a walk through the forest. The sister starts where the paved road from the city transitions to a dirt road, and on-screen instructions tell me to go to grandma's house and stay on the path. In my inventory, I have a bottle of wine and a loaf of bread to take to my grandmother. So I do. With any of the sisters, I can reach grandma's house by following the path in a short, minute-long jog. Upon entering the house, the camera shifts from a distant third-person perspective to a first-person one as the sister walks through the house, up the stairs to grandma's bedroom. The atmosphere is eerily tense, and though movement in this section is on-rails, every step forward requires a click of the mouse, making the short walk feel cautious and belabored. However, upon reaching your grandmother's bedroom, she is resting in bed, and she awakes as I approach her. The tension dissipates. I have done what was asked of. However, a score page appears at the end of each play session that judges my performance based on Items Collected, Special Rooms Unlocked, Distance Traveled, and Wolf Encountered. When I proceed to grandmother's house directly, the score page meets me with a large "FAILURE!" and the low Rank of "D".
+
+{% include figure-center.html 
+    src="/media/TaleOfTales/ThePath_failure.jpg" 
+    description="" %}
+
+So, to play the game properly, you must break its rules. Harvey and Samyn are asking the player to play their game the way that they would play Tekken or ICO. Ignore the game's instructions and delight in open-ended, expressive play. So when I returned to the character select screen, I choose a different sister and immediately wandered off the main path into the forest. The forest is a shifting terrain that is difficult to stay oriented in. As soon as the path disappears from sight, it is impossible to find again without help. Only finding the mysterious Girl in White, who prances around the forest independently, can return the player to the path. Approach her and she will take the sister by the hand and walk her back to the path, returning her to safety.
+
+But if I stayed in forest and explored it, I could eventually encounter the wolf. The wolf appears in different places and presents itself in different forms depending on which sister goes looking for him. Each time, a short cutscene can be triggered by approaching the wolf, resulting in the sister waking up in the rain, laying before the gate to grandmother's house. The girl slowly walks towards grandmother's house, much slower than usual. When she enters, the grandmother's house is a more twisted and terrifying version of the already unnerving place. The lighting is unreal, the path taken to grandmother's bedroom is circuitous and at times physically impossible, as though the house is shrinking and growing and twisting around the sister. Upon reaching the bedroom, the sister encounters not her grandmother but a some manner of spooky scene that that results in her collapsing. The score card appears and congratulates me with "SUCCESS!" When I return to the character select screen, that sister is no longer available to be selected.
+
+{% include figure-center.html 
+    src="/media/TaleOfTales/ThePath_success.jpg" 
+    description="" %}
+
+Survival is failure, and "death" is success.
+
+A loose gameplay loop emerged during my time with *The Path*. I would pick a sister and wander around the forest looking for objects and sites of interest. The layout of the forest is different for every sister. Each sister has three sites in their version of the forest to visit, always with one that has their wolf lying in wait, and each one unlocks a secret room in the ending sequence in grandmother's house. The secret rooms make the path to the bedroom longer and more psychedelic. Objects in the forest will provoke a unique interaction with certain sisters and be added to a shared inventory. The collected object will also appear in grandmother's house along the route to the bedroom. It is hard to stay oriented in the forest, but the location of the wolf and the three sites are indicated by markers at the edge of the screen.
+
+So a typical play session of mine was seeking out the three sites for the current sister, before encountering the wolf, while wandering around searching for new objects. Additionally, there are flowers that can be picked and collected by the sisters. Every dozen or so flowers adds a location of an undiscovered object to the map with an on-screen directional indicator. Navigating the forest had a primary objective - finding the sites and the wolf so that I could see the secret rooms and gain a "successful" ending - but even that objective is loose and unenforced, and mainly serves as a framework for more open-ended play. Finding the objects may satisfy completionist tendencies, but the game doesn't reward the player in anyway for finding them all. In fact, the game undercuts efforts to "complete" it. The game reminded me of how many flowers out of a 144 total count I had collected each time I picked one, but I had all of the objects about halfway through collecting all the flowers so no new markers would show up. At that point, the flowers had no purpose other than fulfilling my own desire to collect them, and the game offered me no award or recognition when I spent the time to collect the rest of the 144.
+
+With only loosely defined objectives, I found it mas principally motivated to discover more about the personalities of the sisters. While I found *The Graveyard* to be an neat experiment in short-form game design, I felt distanced from it because there was little substance to grab onto. This is not the case *The Path*. Every piece of this game is intended to illuminate the personalities of the six sisters. Discovering the sites, finding the objects, and unlocking the secret rooms are interesting because they all informed me about the inner lives of these sisters. While many sisters can interact with the same objects and find the same sites, their reactions to them will be different. The text blurbs that appear on screen when interacting with an object read like inner thoughts, or diary entries. The wine that is in the inventory at the start, for example: the younger sisters will find it smelly or express no interest, while some of the older sisters will hope to get a taste. Beyond the meta-commentary on, and subversion of, videogame tropes, this the real success of *The Path*: coupling freeform exploration of an interesting environment with a nonlinear exploration of a set of characters. 
+
+Each of the sisters is confronting the difficulties and horrors of growing up in their own way. Staying on the path results in a tense, but stable continuation of their present situation, with their grandmother's house being eerie but calm. The forest and the wolves that wait within it are the temptations of a larger world. There are things out there that the girls want, but seeking them out disrupts their family life. Grandmother's house transforms into a nightmare, judging the girls for what they have done. The setup recalls a rape scenario, particularly since the sisters blackout after meeting the wolves and wake up alone in the rain. Yet the sisters, and the player that controls them, seek out the wolves. The wolves each have something the girls want, and the violent method of acquiring it feels like an inevitable process of these girls moving towards adulthood.
+
+{% include figure-right.html 
+    src="/media/TaleOfTales/ThePath_ScarletsHouse.jpg" 
+    description="Scarlet's Nightmare." %}
+
+Consider Scarlet, the eldest at 19 years old. She is feeling trapped within her responsibility for taking care of her younger sisters. The parents of the sisters are never seen in game, and only a mother is referenced, suggesting a single-mother household. In the woods, Scarlet's thoughts dwell on maintaining order and performing her chores. Messy scenes in the forest, like a lost boot or stray needle compel her to clean it up, if only she had the time. A blade left on a stump makes her think of chopping vegetables. But when she allows her mind to wander, she thinks of music. Art is noble and sophisticated to her. If only she had the time to pursue it. Sitting on an abandoned wheelchair, she thinks she hears a serenade. She stumbles upon an open air theatre with a piano waiting for her. When she starts to play, an elegant silver-haired man approaches and stands behind her, instructing her. This is her wolf, the desire to leave her family to follow her passions. At her grandmother's house, the furniture is covered in plastic, and rows of neatly placed bottles are arrayed on the floor. It is neat and orderly, but sterile and empty. Further along, stacks of books and instruments line the hallway, gateways to the art and sophistication she craves. In the bedroom, white curtains rise revealing, nothing, just an empty bed. She has left her family behind.
+
+{% include figure-right.html 
+    src="/media/TaleOfTales/ThePath_CarmensHouse.jpg" 
+    description="Carmen's Nightmare." %}
+
+Or consider Carmen, 17. She obsessed with love and sex and physical beauty, but she is scared by her compulsions towards those things. "There is a certain rhythm that cannot be resisted" she thinks. She acts out the alluring motions of beauty, bathing herself in a tub and posing dramatically in a tower. She thinks back on her younger, more innocent years tenderly as she sits in an old playground. She suspects something about herself will be lost by following her impulses, but she cannot resist. "The man who would save us is the destroyer," she muses. "But the tenderness of giving in can defeat any power." Her wolf is a middle-aged lumberjack, cutting down trees at a small camp. Carmen drinks some of his beer, lights the campfire, and playful beckons the lumberjack over by stealing his cap. He comes and sits beside her by the campfire. At grandmother's house, sawblades and axes adorn the wall, and the sound of a chainsaw roars. All the doors are marked with the same painted "X" that the lumberjack marked trees scheduled for cutting. A tree erupts out of grandmother's bed. Carmen's sexual encounter with the lumberjack has changed her relationship to the places of her innocence.
+
+The other sisters can be read in similar ways. Ruby, 15, is a goth teen in a leg brace with a death wish and attraction to cars and motorcycles. Ginger, 13, is an adventurous tomboy whose energy and imagination belies a deep loneliness. Rose, 11, is kind and wise beyond her years, but fears the violent world around her. Robin, 9, is still a naïve kid who hasn't yet come to terms with what death means.
+
+Additional details about the sisters and their world come from a set of LiveJournals, written in character from the point of view of each of the girls. These were updated periodically by Tale of Tales over the course of the game's development process. It's a fun experiment in world building, that also feels like Harvey and Samyn attempting to grapple with a new and somewhat unfamiliar side to the Internet. The girls post entries and comment on each others. Scarlet writes about how alive she felt after going to an opera and Carmen makes fun of her in the comments. Ruby posts about how she has dyed her hair, and in a separate post Rose writes about the shock of walking into a bathroom splattered with black dye like blood. It fills a hole within the game that the sisters can never interact with each other, and rarely comment on their siblings. I wish some of the details in the LiveJournals were present in the game as it expanded my understanding of these characters, but it was a fun Easter egg to discover this bit of online ephemera on my own.
+
+A comprehensive breakdown of all the characters, all of their interactions in the forest, and all the possible permutations of the grandmother's house sequences would be painfully long and always incomplete. I have my personal interpretations of the sisters' stories, but my perspective is unavoidably limited. There are bits and pieces I still cannot make sense of. Why is Rose's wolf is a levitating man made of wind and rain? Why is Ginger's nightmare of grandmother's bedroom a padded room filled with feathers? Why are there exactly 144 flowers to collect, and how does that relate to the cryptic original name for the project, *144*? This is a complex and layered game, like Harvey and Samyn's early net-art collages, and the stories it conveys have both the timelessness of folktales and the intimacy of a diary. It is also a game told from a distinctly feminine perspective, and I feel I can only guess at its intentions some of the time. That's ok though. Tale of Tales has on various occasions expressed their love of cathedrals, and they want their games to feel like inhabiting that kind of space.
+
+> "We deeply enjoy simply being in that space, feeling immersed in its history and connected to the stories that each and every object emanates. We can only place a small number of these. Most figures or ornaments mean nothing to us. But that doesn’t matter because we know that they are meaningful, or have been at some point, to someone. We feel cradled by ancient wisdom as by a loving mother: we don’t need to know what it means, we trust that we will be taken care of."
+
+In their own words, Tale of Tales craft "narrative environments" rather than tell stories. That is exactly how it feels to explore the forest in *The Path*. I feel surrounded by meaning and intention, even if I can only grasp some of what is being conveyed. I feel it in the handcrafted animations for each sister, and in the intricately laid out pathways in grandmother's house. Perhaps I will understand more in time.
+
+It is an easy game to return to because there is no end to *The Path.* Once all the sisters have met their wolves, the mysterious Girl in White can be played in a sort of epilogue. She runs around a rain-drenched forest and can visit all of the other girl's sites before proceeding to grandmother's house. The bedroom is a combination of all of the sister's nightmares. Afterwards, the Girl in White appears back on the character select screen, and all the sisters filter back in, ready to be played again. The game is a continuous cycle, an open narrative environment to explore.
+
+## Conclusion
+
+Auriea Harvey and Michaël Samyn have always been pushing at the limits of what is possible with a computer, first at the limits of what was technologically possible on the Internet during their net-art days, and then at the limits of what was conventionally accepted in videogames as Tale of Tales. They have always been dreaming of what is possible virtually.
+
+The work of Tale of Tales has found its own persistent audience who have supported and funded their curious experiments in interactivity. Though they have never found much in the way of mainstream success, the lingering influences of Tale of Tales games are felt in much more popular games. *The Stanley Parable*, first released as a mod in 2011, follows up on the subversive game design ideas of *The Path.* Uncharted 2 developers have explicitly called out *The Graveyard* as a driving inspiration behind that game's highly praised, leisurely-paced chapter in the Tibetan village. The non-verbal communication in thatgamecompany's smash success *Journey* was directly inspired by the same concept in *The Endless Forest.*
+
+My favorite quote from Tale of Tales comes from a 2008 blog post dissecting the difficulty of crafting narratives for videogames. In it, Tale of Tales rejects the usual game design maxims for what makes games engaging to play:
+
+> "For us, interactivity is not about 'making interesting choices' or 'overcoming meaningful challenges'. It’s about **make-belief**."
+
+It's a contentious stance, and I love that Tale of Tales has staked out its presence in videogames, creating works that follow their own virtual dreams.
+
+## Further Reading.
+
+[Entropy8Zuper, the net.art lovechild of Harvey's Entropy8 and Samyn's Zuper](http://entropy8zuper.org/)
+> *A home for strange Web 1.0 historical artifacts. Not super compatible with modern browsers, so it may take some effort to fully experience.*
+
+[skinonskinonskin](https://sites.rhizome.org/anthology/skinonskinonskin.html)
+> *One of the easy pieces of Harvey and Samyn's net artworks to experience, thanks to its preservation via emulation by the Net Art Anthology. It's a beautiful series of digital love letters, pulled out of time from the turn of this century.*
+
+[Wirefire corpus](http://entropy8zuper.org/wirefire/)
+> *A hub for all articles, documents, and remaining documents related to Wirefire.*
+
+[Indie Devs In Love, an interview from Indie Games Plus](https://indiegamesplus.com/2011/04/indie_devs_in_love_auriea_harv)
+> *A brief interview that runs through the history of Harvey, Samyn, and Tale of Tales. Here's a cool quote:*
+> "We did share an interest in creating computer-based art that was about people, about warm and sensual things, about real things (unlike most of our colleagues at the time, who were far more interested in systems and pixels). We used to have a slogan on our home page that said “Technology is not the future. We are.” We have many slogans."
+
+[Our love for videogames, a blog post by Tale of Tales about the games they love and why they make games](http://tale-of-tales.com/Sunset/blog/index.php/2015/07/04/our-love-for-videogames/)
+> *A great rundown of what Tale of Tales loves in videogames, including their four most inspirational games.*
+
+[Auriea's Top 9 Games of the Decade](http://tale-of-tales.com/blog/2009/12/31/aurieas-top-9-games-of-the-decade/)
+> *I find her picks fascinating as it totally avoids most of the big games of aughts. Interesting to see her main inspirations from around when Tale of Tales started game production. I wonder what games Tale of Tales have enjoyed from 2010 to 2020. Maybe none, they seem quite picky.*
+
+[Over Games, presentation slides for Art History of Games](http://tale-of-tales.com/tales/OverGames.html)
+> *A breakdown of what Tale of Tales wants their games NOT to be, that reads like a rant against the videogame industry. I love the passion.*
+
+[notgames manifesto](http://notgames.org/blog/2010/03/19/not-a-manifesto/)
+> *A manifesto for what Tale of Tales coined notgames, videogames that explore interactivity possibility spaces outside of the convention. This site has a forum that became a minor hub for some interesting game dev personalities, including the folks at Frictional Games, behind the hit horror game Amnesia.*
+
+[Footage of a "Book of 8" gameplay prototype](https://vimeo.com/76718827)
+> *Some of the only Book of 8 gameplay I can find. I would love to see what the finished version of this is like.*
+
+[Grandmother's House](http://grandmothers-house.net/)
+> *A promotional site for The Path that has cool character pages for each of sisters. This is where I found links the LiveJournals! I love finding weird hidden corners of the Internet like this.*
+
+[The Challenge of Non-linearity, a 2010 blog post by Tale of Tales](http://tale-of-tales.com/blog/2008/11/27/the-challenge-of-non-linearity/)
+> *I think this blog post's dichotomy between linear games as rigid and limiting versus non-linear games as freeing and more true to the medium is misguided, but I love this quote and it illuminates the design intentions of Tale of Tales perfectly:*
+> "For us, interactivity is not about “making interesting choices” or “overcoming meaningful challenges”. It’s about make-belief."
+
+[Post-mortem on The Path](http://tale-of-tales.com/blog/the-path-post-mortem/)
+> *Detailed chronology on the development of The Path, by Auriea Harvey. Details the failures an successes of the project from her point of view.*
+
+[Interviews with Artists that inspired or contributed to The Path](http://tale-of-tales.com/ThePath/blog/category/interviews/)
+> *I discovered some very cool artists here, and I can definitely see the artistic influence in The Path. Connecting theme of doll-like children performing adult activities in surreal environments.*
+
+[The Path for Art Games, by Leigh Alexander](https://kotaku.com/the-path-for-art-games-5234167)
+> *Leigh Alexander is a great games writer. Here, she considers the mixed reception The Path received upon release.*
+
+[Single-A games, by Steve Gaynor](http://www.fullbrightdesign.com/2009/05/single-games.html)
+> *Steve Gaynor, prior to founding his own game studio and making Gone Home, was getting excited about The Path, and a strange FPS brawler called Zeno Clash. Check out the comments to see Jonathan Blow and Michael Samyn make appearances.*
+
+[The Path analysis by one Gamerdame, circa 2011](https://gamerdame.wordpress.com/2011/08/13/in-depth-analysis-for-the-path/)
+> *A charming analysis of The Path that goes much more in-depth on each of the characters than I personally cared to write. She comes to some different conclusions than I did, and I think that's just neat.*
+
+[Dead Forum for The Path, overrun by bots](http://tale-of-tales.com/forum/index_ThePath.html)
+> *The Path once had a forum for discussing the development of the game, and analyzing it after its release. Spam bots took it over a couple years back. The slow entropic decay of virtual spaces.*
+
+[How Gameplay and Narrative kill Meaning in "Games"](https://frictionalgames.blogspot.com/2010/01/how-gameplay-and-narrative-kill-meaning.html)
+> *A blog post by Thomas Grip of Frictional Games that Samyn found inspirational. These ideas were formulated and discussed on the notgames forum. I suspect I will return to this post when I cover Amnesia in the future.*

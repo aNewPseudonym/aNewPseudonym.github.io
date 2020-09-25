@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "On 'The Lighthouse'"
+title: "On The Lighthouse."
 subtitle: Meandering Thoughts
 date:   2019-11-07 12:00:00 -0500
-categories: film review
+categories: film
 ---
 
 At present, I really have no coherent thoughts on this film. It is a slow-simmering slew of images and icons, parsed out amidst confusing dialogue sessions between our main characters. I am unsure on how to approach this piece. Hopefully, through writing, I can digest this strange beast.

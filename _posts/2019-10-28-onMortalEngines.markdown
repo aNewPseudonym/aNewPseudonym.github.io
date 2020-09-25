@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "On 'Mortal Engines'"
-subtitle: Meandering Thoughts
+title: "On Mortal Engines."
+subtitle: Meandering thoughts on a disappointing movie.
 date:   2019-10-28 11:00:00 -0500
-categories: film review
+categories: film
 ---
 
 Eh. This was about as bad as I expected, but in some different ways than I would have thought.

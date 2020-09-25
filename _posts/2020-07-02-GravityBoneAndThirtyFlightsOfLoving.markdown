@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "On Gravity Bone and Thirty Flights of Loving."
+title: "Gravity Bone, Thirty Flights of Loving, and Games About Games."
 subtitle: Part 2 of x in a series on Walking Simulators
-date:   2020-07-02 12:00:00 -0500
+date: 2020-07-02 12:00:00 -0500
 categories: game walking-sim
 ---
 

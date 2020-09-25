@@ -3,7 +3,7 @@ layout: post
 title: "Dear Esther, and the Ur-Walking Sim."
 subtitle: Part 1 of X in a series on Walking Simulators.
 date:   2020-04-30 12:00:00 -0500
-categories: game review walking-sim
+categories: game walking-sim
 ---
 
 Dear Esther began life as a 2008 mod for Half-Life 2. It was developed by thechineseroom, a development group based out of the University of Portsmouth and lead by Dan Pinchbeck, who was a professor working on his PhD at the time, studying narrative in virtual environments. On the ModDB site for thechineseroom, the platform by which the Dear Esther mod got distributed, Pinchbeck writes:
