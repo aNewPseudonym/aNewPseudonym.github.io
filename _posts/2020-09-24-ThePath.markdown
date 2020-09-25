@@ -8,7 +8,7 @@ categories: game walking-sim
 
 > if ( 1 + 1 == 1 ) { e8z = true; };
 
-This line of pseudo-code expresses the start of lifelong partnership between Auriea Harvey and Michaël Samyn, in art, in work, and in love. This phrase greets you upon entering entropy8zuper.org, the online art gallery and love child of this two.
+This line of pseudo-code expresses the start of lifelong partnership between Auriea Harvey and Michaël Samyn, in art, in work, and in love. This phrase greets you upon entering entropy8zuper.org, the online art gallery and love child of these two creatives.
 
 ## Love in the Wires
 
