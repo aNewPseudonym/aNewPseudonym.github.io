@@ -18,7 +18,7 @@ They began with love letters. They exchanged small interactive webpages with eac
 
 {% include figure-right.html 
     src="/media/TaleOfTales/underyourdesk.jpg" 
-    description="The interface of *underyourdesk.*" %}
+    description="The interface of underyourdesk." %}
 
 To facilitate closeness while they were separated, they created their own platform to share their lives with each other. underyourdesk was a chat platform just for the two of them that transcended the simplistic pure text applications available at the time. In underyourdesk, they could text message, but also share images and upload music to play for each. They could link their webcams so they could see each other. They had clocks for each of their time zones. They could keep underyourdesk open at all times, while they worked and slept, so they had a line of communication to each other at all times. Harvey recalls getting awoken by Samyn by him playing a song for her. They intentionally avoided voice communication though. In this time, they never spoke on the phone. They created, instead, "a poetic fantasy" on the web. Perhaps they feared that the literalness and expected cadences of voice communication would intrude on that fantasy. The space they created was quirky, intimate, and all their own. A wire connecting New York and Belgium.
 
