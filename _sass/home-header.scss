@@ -2,15 +2,16 @@
 
 .home-header{
     background: $color-black;
-    padding: 2em;
     padding-top: 0;
     padding-right: 0;
     margin-bottom: 0em;
     h1{
-        margin-top: 2em;
+        padding-left: 7%;
         color: $color-gold;
     }
     h2{
+        padding-left: 7%;
+        padding-bottom: 4%;
         color: $color-cream;
     }
 }

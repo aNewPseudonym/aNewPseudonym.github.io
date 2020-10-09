@@ -1,0 +1,7 @@
+- Fatale (2009)
+    - legend/mythological storytelling, imbued with contemporary artifacts
+    - broken into 3 parts with no pressures or defined goals or failure states - just exist, explore, experience the story
+    - interesting movement system(s)
+    - curious as a game, feels weighed down by having to tell an established story? does it add anything to the canon of Salome?
+- Bientôt l'été (2012)
+    - a profoundly lonely experience, an experimental multiplayer game about communication with no one to talk to

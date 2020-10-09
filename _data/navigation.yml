@@ -1,3 +1,5 @@
+- name: "Blog."
+  link: /blog/
 - name: "Index."
   link: /index/
 - name: "About."

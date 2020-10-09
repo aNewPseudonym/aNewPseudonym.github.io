@@ -3,6 +3,7 @@
         "prose",
         "home-header",
         "footer",
+        "gateway",
         "extras";
 
 * {
@@ -15,6 +16,7 @@ p, hr, dl, dd, ol, ul, nav, header{
     padding: 0;
 }
 
+// basic settings for body
 body {
     background-color: $color-cream;
     max-width: 800px;
@@ -31,13 +33,13 @@ body {
 
 // for navigation links
 nav {
+    display: flex;
+    padding-right: 48px;
+    padding-left: 48px;
+
     font-family: $subtitle-font-family;
     font-size: 14pt;
-    width: 40%;
-    float: right;
     text-align: center;
-    padding: 6px;
-    padding-top: 36px;
     //link styles
     a:link {
         color: $color-cream;
@@ -60,16 +62,24 @@ nav {
     }
 }
 
+// used for header at top of most pages
 header {
+    padding: 0px;
+    margin: 0px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
     h3{
-        float: right;
-        width: 30%;
         text-align: center;
+        height: auto;
         margin: 0;
-        padding: 12px;
         background: $color-black;
+        
+        padding-right: 48px;
+        padding-left: 48px;
+        padding-top: 28px;  // to properly align with nav element
+        padding-bottom: 12px;
         //link styles for home button
         a:link {
             color: $color-cream;
@@ -88,6 +98,9 @@ header {
     }
     // for navigation links
     nav {
+        align-self: flex-end;
+        padding-top: 53px;  // to properly align with h3 Home element
+        padding-bottom: 12px;
         background: $color-black;
     }
 }
@@ -122,6 +135,8 @@ h3{
     font-size: 36pt;
     font-weight: 900;
     color: $color-gold;
+
+    line-height: 1.0;
 }
 h5{
     font-family: $title-font-family;

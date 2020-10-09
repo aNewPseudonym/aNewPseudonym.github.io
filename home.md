@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home.
-permalink: /
+title: Blog.
+permalink: /blog/
 ---
 
-Welcome to my website.
+Welcome to my blog.

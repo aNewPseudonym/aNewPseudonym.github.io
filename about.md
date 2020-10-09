@@ -4,7 +4,7 @@ title: About.
 permalink: /about/
 ---
 
-My name is Fran Di Caprio. I'm an architectural designer based out of the Twin Cities. I sometimes refer to myself as ANEW.
+My name is Fran Di Caprio and this is my personal website. I'm an architectural designer based out of the Twin Cities. I sometimes refer to myself as Anew.
 
 I tend to overthink things. Thoughts on movies, videogames, and books get stuck in my head. So I write about them to get them unstuck, and put the results here to see if anyone else is interested.
 

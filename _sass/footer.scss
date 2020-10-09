@@ -1,11 +1,9 @@
-//home page settings
-
+//footer settings, used on most pages
+// expands on nav from main
 footer{
     nav {
         float: right;
-        width: 50%;
         text-align: center;
-        padding: 6px;
         padding-top: 6px;
         a:link {
             color: $color-black;
