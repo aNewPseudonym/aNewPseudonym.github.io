@@ -95,7 +95,7 @@
     }
 
     figure.parallax {
-        /* center in screen */
+        // set width and center in screen
         width: 100vw;
         position: relative;
         left: 50%;
@@ -120,17 +120,23 @@
 
         // set parallax effect
         // background-image set inline in html layout!
-        /* Set background image to fixed (don't scroll along with the page) */
-        background-attachment: fixed;
         /* Center the background image */
         background-position: center;
         /* Set the background image to no repeat */
         background-repeat: no-repeat;
         /* Scale the background image to be as large as possible */
-        background-size: 100vw auto;
+        // background-size: 100vw auto;
+        webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
 
-        //center all content
-        align-content: center;
+        /* Set background image to fixed (don't scroll along with the page) */
+        background-attachment: fixed;
+        // for mobile
+        @media only screen and (orientation: portrait) {
+            background-attachment: scroll;
+        }
     }
 
 }
