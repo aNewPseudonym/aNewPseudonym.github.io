@@ -6,7 +6,9 @@ date: 2021-01-29 12:00:00 -0500
 categories: game
 ---
 
-## Alternate Terms to Immersion
+Presented are four separate thoughts on video games and games writing that I've had percolating in my brain for the past year. Beware: These are rough thoughts, only loosely edited. Just to get them into writing.
+
+## Alternatives to Immersion
 
 I never know what a reviewer means when they use the word "immersion." It's a very common word in games writing, bordering on a cliché, and yet I don't have a clear sense of what it means.
 
