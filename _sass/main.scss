@@ -29,6 +29,41 @@ body {
     font-family: $body-font-family;
     font-size: $body-font-size;
     color: $color-black;
+    
+}
+
+// list formatting
+ul {
+    display: block;
+    list-style-type: none;
+    li > p {
+        margin-left: 1em;
+        margin-right: 0%;
+    }
+    li {
+        margin-left: 1em;
+        margin-right: 0%;
+    }
+    padding-bottom: 1.0em
+}
+ol{
+    padding-bottom: 1.0em
+}
+li li{
+    list-style-type: lower-alpha;
+}
+li li li{
+    list-style-type: lower-roman;
+}
+ol > li {
+    margin-left: 20px;
+}
+// prevent double spacing at end of sublists
+ol > li > ol {
+    padding-bottom: 0.0em
+}
+ul > li > ul {
+    padding-bottom: 0.0em
 }
 
 // for navigation links
@@ -162,19 +197,6 @@ h6{
     color: $color-grey;
     margin-top: 0.25em;   // extra space before date
     margin-bottom: 0.5em;  // extra space after date
-}
-
-ul {
-    display: block;
-    list-style-type: none;
-    li > p {
-        margin-left: 1em;
-        margin-right: 0%;
-    }
-    li {
-        margin-left: 1em;
-        margin-right: 0%;
-    }
 }
 
 hr { 

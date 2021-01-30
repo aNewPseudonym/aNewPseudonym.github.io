@@ -32,17 +32,17 @@ This all may sound pedantic, because if someone reads enough video game writing 
 
 1. "You" means a hypothetical player.
 
-This is the most common case. "You" typically refers to a player as imagined by the games writer. This fictional player is usually idealized, and capable of doing anything possible within the space of the game. This fictional player is a very convenient tool for explaining and exploring the interactive possibilities of a game. As in, "You do this, or you can do that, but you must do this." I prefer the terms "the player," or "a player," to avoid the aforementioned inaccuracies related to differing experiences and capabilities of anyone who may be reading.
+    This is the most common case. "You" typically refers to a player as imagined by the games writer. This fictional player is usually idealized, and capable of doing anything possible within the space of the game. This fictional player is a very convenient tool for explaining and exploring the interactive possibilities of a game. As in, "You do this, or you can do that, but you must do this." I prefer the terms "the player," or "a player," to avoid the aforementioned inaccuracies related to differing experiences and capabilities of anyone who may be reading.
 
 2. "You" means I.
 
-Frequently, writers use "you" when they are actually referring to their own personal experience with a game. Often times, this occurs when a writer fails to understand that the game allows for a much broader spectrum of play than they personally experienced. Returning to a Super Mario Bros. example, a writer may state, "You progress through 8 worlds in order to reach the end of the game," without realizing that the game includes shortcuts that allow a player to skip many of those worlds. Or, a writer may interpret a procedural encounter in a game as a scripted one that occurs for all players. When playing a game, there are countless ways that one player's experience could differ from another player's. When unsure if an experience in a game is universal across all players, using "I" as the subject will help prevent inaccuracies and confusion.
+    Frequently, writers use "you" when they are actually referring to their own personal experience with a game. Often times, this occurs when a writer fails to understand that the game allows for a much broader spectrum of play than they personally experienced. Returning to a Super Mario Bros. example, a writer may state, "You progress through 8 worlds in order to reach the end of the game," without realizing that the game includes shortcuts that allow a player to skip many of those worlds. Or, a writer may interpret a procedural encounter in a game as a scripted one that occurs for all players. When playing a game, there are countless ways that one player's experience could differ from another player's. When unsure if an experience in a game is universal across all players, using "I" as the subject will help prevent inaccuracies and confusion.
 
-I suspect many games writers avoid using "I" because it betrays the fact that the content of their writing is subjective. Many game fans still have a poorly conceived desire for reviews and analyses of games to appear objective. This is, of course, impossible, as to review or analyze art is to bring one's own subjective viewpoint to a work. Using "you" instead of "I" masks the fact that the writer is forming opinions of a game based on their own inherently subjective experiences.
+    I suspect many games writers avoid using "I" because it betrays the fact that the content of their writing is subjective. Many game fans still have a poorly conceived desire for reviews and analyses of games to appear objective. This is, of course, impossible, as to review or analyze art is to bring one's own subjective viewpoint to a work. Using "you" instead of "I" masks the fact that the writer is forming opinions of a game based on their own inherently subjective experiences.
 
 3. "You" means the player character.
 
-Occasionally, "you" does not refer to a player, but to the player character, or avatar, being controlled within the game. A common example would be a game in which the player has full control of the player character except in dialogue scenes, where the fictional character speaks without receiving any input from the player. A writer could then, inaccurately, write something like, "You enter a dark room and speak with a mysterious man, and you demand that he tells you where your kidnapped wife is." The player controls the character when entering the dark room, and may even initiate the conversation with the mysterious man, but the player character is the one who demands to know where their wife is. This is an important distinction to make. Simply writing "you" in all such cases obfuscates to the reader what level of control a player has in the game. This can be particularly important in complex role-playing games where the level of control a player has over the player character is not clear cut. Consider a game like Mass Effect, in which the player has a lot of influence over what their version of Commander Shepherd will do and say, but does not have total control. A writer should be very careful with their language selection to differentiate what is within a player's control and what is not.
+    Occasionally, "you" does not refer to a player, but to the player character, or avatar, being controlled within the game. A common example would be a game in which the player has full control of the player character except in dialogue scenes, where the fictional character speaks without receiving any input from the player. A writer could then, inaccurately, write something like, "You enter a dark room and speak with a mysterious man, and you demand that he tells you where your kidnapped wife is." The player controls the character when entering the dark room, and may even initiate the conversation with the mysterious man, but the player character is the one who demands to know where their wife is. This is an important distinction to make. Simply writing "you" in all such cases obfuscates to the reader what level of control a player has in the game. This can be particularly important in complex role-playing games where the level of control a player has over the player character is not clear cut. Consider a game like Mass Effect, in which the player has a lot of influence over what their version of Commander Shepherd will do and say, but does not have total control. A writer should be very careful with their language selection to differentiate what is within a player's control and what is not.
 
 - - -
 
@@ -60,41 +60,44 @@ The process takes the form of a set of questions that the critic should ask them
 
 This system takes two statements as axiomatic: First, all criticism conveys both the objective reality of the artwork in question and the subjective reality of the critic. Second, all criticism is valid, so long as it is properly explained and contextualized.
 
-Phase 1: Description
+**Phase 1: Description**
 
 1. What is it?
 2. How was it made?
-	2a. Who made it?
-	2b. When and where was it made?
+   1. Who made it?
+   2. When and where was it made?
 
 - The answers to the questions in this phase are literal and objective. There may not be exact or factual answers for these questions, but they provide no room for interpretation. These questions provide context for understanding the work. The more information a critic can provide as answers, the more complete the understanding of the work will be.
 - There are infinite sub-questions that could detail the "what" and "how" of any given artwork. The more knowledge a critic has on these questions, the more complete their analysis will be.
 - Having incomplete knowledge of the "what" and "how" of an artwork does not in any way disqualify an critique. In fact, a naïve analysis can be just as, if not more, interesting than a highly knowledgeable analysis. However, a critic's knowledge of the work's creation and context should be clearly conveyed in the critique.
 
-Phase 2: Interpretation
+**Phase 2: Interpretation**
 
+{:start="3"}
 3. Why do I think it was made this way?
-	3a. What do I think it was intended to accomplish?
+	1. What do I think it was intended to accomplish?
 4. How am I engaging with this work?
-	4a. What do I want from it?
-	4b. What thoughts does it provoke in me?
-	4c. What feelings does it elicit in me?
+	1. What do I want from it?
+	2. What thoughts does it provoke in me?
+	3. What feelings does it elicit in me?
 
 - The intention of the artist, or artists, is unknowable. Even explicit declaration of intent is not definitive, though it may provide a useful lens by which to view the work. Grappling with possible intention is a subjective consideration on the part of the critic.
 - A critic's interpretation of the intention of a work (Q3) may align with their own expectations of that work (Q4), or it may not. Understanding how they align or conflict will inform the critic's judgment in the next phase. In a simple case, the intention and engagement are in harmony, and the criteria for judgment is self-evident. In complex cases, they are in conflict, and the critic must consider multiple judgment criteria. For instance, the work fails as intended but succeeds in an unintentional way.
 - The sub-questions of (Q4a-c) all carry an implicit "why?". Answering the "why" provides evidence for a critic's argument.
 - There are infinite variables that affect how a critic engages with a work of art, including everything from their overall worldview to how they felt on the particular day that they encountered the work. The more a critic considers why they interpreted the work a particular way, the more complete their analysis will be. For instance, a critic saying that a work is good simply because it induced positive emotions within them is not incorrect, but it is simplistic. Understanding why they were primed to feel those emotions by the work or by other factors in their own life will provide a more complete, and often more interesting, critique.
 
-Phase 3: Judgment
+**Phase 3: Judgment**
 
+{:start="5"}
 5. What criteria do I feel is most appropriate for judging it?
 6. Based on evidence, how successful is it in meeting that criteria?
 
 - No single analysis can be exhaustive of a work's meaning. All interpretations are valid. However, all interpretations tell something about both the artwork and the art critic. 
 - An critique that focuses heavily on the critic is absolutely valid, and may be particularly interesting if the critic has a unique personal perspective that relates to the work. Conversely, an critique that focuses heavily on the work itself could illuminate details of the work's craft and construction that encourage others to engage with the work. Both can be done well, and even done well simultaneously.
 
-Phase 4: Reconsideration
+**Phase 4: Reconsideration**
 
+{:start="7"}
 7. Are there other facts about this work that could affect my analysis? Return to Description. 
 8. Are there other ways to interpret this work? Return to Interpretation.
 9. Are there other criteria by which to judge this work? Return to Judgment.
