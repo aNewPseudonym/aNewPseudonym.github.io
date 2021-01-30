@@ -154,7 +154,10 @@ Video games are an ahistorical medium.
 
 ## Further Reading
 
-https://www.statista.com/statistics/187122/movie-releases-in-north-america-since-2001/
-https://en.wikipedia.org/wiki/Books_published_per_country_per_year
-https://en.wikipedia.org/wiki/The_New_York_Times_Best_Seller_list#History
-https://www.nytimes.com/2020/01/09/business/media/tv-shows-2020.html
+[https://www.statista.com/statistics/187122/movie-releases-in-north-america-since-2001/](https://www.statista.com/statistics/187122/movie-releases-in-north-america-since-2001/)
+
+[https://en.wikipedia.org/wiki/Books_published_per_country_per_year](https://en.wikipedia.org/wiki/Books_published_per_country_per_year)
+
+[https://en.wikipedia.org/wiki/The_New_York_Times_Best_Seller_list#History](https://en.wikipedia.org/wiki/The_New_York_Times_Best_Seller_list#History)
+
+[https://www.nytimes.com/2020/01/09/business/media/tv-shows-2020.html](https://www.nytimes.com/2020/01/09/business/media/tv-shows-2020.html)
