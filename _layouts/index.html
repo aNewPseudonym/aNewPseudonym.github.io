@@ -8,6 +8,20 @@ layout: default
         {{content}}
     </div>
     <hr>
-    {% include post-index.html %}
+    
+    <ul>
+        {% for post in site.posts%}
+            <li>
+                <h2>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </h2>
+                <h6 class="all-caps">
+                    {{ post.date | date: "%B %e, %Y"}}
+                </h6>
+                <p>{{ post.excerpt }}</p>
+            </li>
+            <br>
+        {% endfor %}
+    </ul>
 
 </body>

@@ -1,0 +1,60 @@
+//home page settings
+.home-header{
+    background: $foreground;
+    padding-top: 0;
+    padding-right: 0;
+    margin-bottom: 0em;
+    h1{
+        padding-left: 7%;
+        color: $accent;
+    }
+    h2{
+        padding-left: 7%;
+        padding-bottom: 4%;
+        color: $background;
+    }
+}
+
+// for the main links on the entry page
+.gateway{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        width: 200px;
+        height: 200px;
+        margin: 25px;
+        padding: 10px;
+    }
+
+    h4{
+        width: 200px;
+        line-height: 200px;
+        text-align: center;
+        vertical-align: middle;
+        margin: auto;
+        color: $color-cream;
+        background-color: $foreground;
+    }
+    h4:link{
+        background-color: $foreground;
+    }
+    h4:hover {
+        background-color: $accent;
+    }
+}
+
+//-- extra classes for specific uses in pages --//
+
+.center {
+    text-align: center;
+}
+.all-caps {
+    text-transform: uppercase;
+}

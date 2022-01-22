@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.5"
+#gem "jekyll", "~> 3.8.5"
 
 # Jekyll themes
 gem "minima", "~> 2.0"

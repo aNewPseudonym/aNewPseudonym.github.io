@@ -10,7 +10,7 @@
 
     blockquote {
         border-style: solid;
-        border-color: $color-gold;
+        border-color: $accent;
         border-width: 0.0em;
         border-left-width: 0.125em;
     }
@@ -33,7 +33,7 @@
         //custom bullet points
         li::before {
             content: "-";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-            color: $color-black; /* Change the color */
+            color: $body-font-color; /* Change the color */
             font-weight: 800; /* If you want it to be bold */
             display: inline-block; /* Needed to add space between the bullet and the text */
             width: 1em; /* Also needed for space (tweak if needed) */
@@ -45,7 +45,7 @@
     figure {
         margin: auto;
         border-style: solid;
-        border-color: $color-black;
+        border-color: $foreground;
         border-width: 0.25em;
         margin-top: 0em;
         margin-bottom: 0.5em;
@@ -55,8 +55,8 @@
             margin-bottom: 0em;
         }
         figcaption {
-            color: $color-cream;
-            background-color: $color-black;
+            color: $background;
+            background-color: $foreground;
             padding-top: 0.25em;
             padding-bottom: 0.25em;
             padding-left: 0.5em;
@@ -66,7 +66,7 @@
             font-family: $title-font-family;
             font-size: 24pt;
             font-weight: 900;
-            color: $color-gold;
+            color: $title-font-color;
 
             // align and set max width
             text-align: center;
@@ -111,7 +111,7 @@
         border-width: 0.00em;
         border-top-width: 0.5em;
         border-bottom-width: 0.5em;
-        border-color: $color-gold;
+        border-color: $accent;
 
         // center contents
         display: flex;

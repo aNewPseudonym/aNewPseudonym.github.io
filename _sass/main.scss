@@ -1,24 +1,18 @@
-@import "variables_fonts",
-        "variables_colors",
-        "prose",
-        "home-header",
-        "footer",
-        "gateway",
-        "extras";
-
+// set border-box sizing for everything by default
 * {
     box-sizing: border-box;
 }
 
+// set margin and padding of  key elements to 0 by default
 body, h1, h2, h3, h4, h5, h6,
-p, hr, dl, dd, ol, ul, nav, header{
+p, hr, dl, dd, ol, ul, nav, header {
     margin: 0;
     padding: 0;
 }
 
 // basic settings for body
 body {
-    background-color: $color-cream;
+    background-color: $background;
     max-width: 800px;
     min-width: 400px;
     margin: auto;
@@ -28,8 +22,7 @@ body {
 
     font-family: $body-font-family;
     font-size: $body-font-size;
-    color: $color-black;
-    
+    color: $body-font-color;
 }
 
 // list formatting
@@ -67,6 +60,7 @@ ul > li > ul {
 }
 
 // for navigation links
+// built on in header and footer sections
 nav {
     display: flex;
     padding-right: 48px;
@@ -77,22 +71,22 @@ nav {
     text-align: center;
     //link styles
     a:link {
-        color: $color-cream;
+        color: $header-link-off;
         text-decoration: none;
     }
     // visited link
     a:visited {
-        color: $color-cream;
+        color: $header-link-off;
         text-decoration: none;
     }
     // mouse over link
     a:hover {
-        color: $color-gold;
+        color: $header-link-on;
         text-decoration: underline; 
     }
     // current page
     a.current-page {
-        color: $color-gold;
+        color: $header-link-on;
         text-decoration: underline;
     }
 }
@@ -109,7 +103,7 @@ header {
         text-align: center;
         height: auto;
         margin: 0;
-        background: $color-black;
+        background: $foreground;
         
         padding-right: 48px;
         padding-left: 48px;
@@ -117,17 +111,17 @@ header {
         padding-bottom: 12px;
         //link styles for home button
         a:link {
-            color: $color-cream;
+            color: $header-link-off;
             text-decoration: none;
         }
         // visited link
         a:visited {
-            color: $color-cream;
+            color: $header-link-off;
             text-decoration: none;
         }
         // mouse over link
         a:hover {
-            color: $color-gold;
+            color: $header-link-on;
             text-decoration: underline; 
         }
     }
@@ -136,24 +130,31 @@ header {
         align-self: flex-end;
         padding-top: 54px;  // to properly align with h3 Home element
         padding-bottom: 12px;
-        background: $color-black;
+        background: $foreground;
     }
 }
 
-// images in body text
-p {
-    img {
-        display: block;
-        margin: auto;
-        width: 75%;
-        border-style: solid;
-        border-color: $color-black;
-        border-width: 0.25em;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
+//footer settings, used on most pages
+footer{
+    nav {
+        float: right;
+        text-align: center;
+        padding-top: 6px;
+        a:link {
+            color: $footer-link-off;
+        }
+        // visited link
+        a:visited {
+            color: $footer-link-off;
+        }
+        // mouse over link
+        a:hover {
+            color: $footer-link-on;
+        }
     }
 }
 
+// set properties for headings
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0.25em;
     margin-bottom: 0em;
@@ -163,13 +164,13 @@ h1{
     font-family: $title-font-family;
     font-size: 48pt;
     font-weight: 900;
-    color: $color-gold;
+    color: $title-font-color;
 }
 h3{
     font-family: $title-font-family;
     font-size: 36pt;
     font-weight: 900;
-    color: $color-gold;
+    color: $title-font-color;
 
     line-height: 1.0;
 }
@@ -177,28 +178,29 @@ h5{
     font-family: $title-font-family;
     font-size: 24pt;
     font-weight: 900;
-    color: $color-black;
+    color: $subtitle-font-color;
 }
 h2{
     font-family: $subtitle-font-family;
     font-size: $subtitle-font-size;
-    color: $color-black;
+    color: $subtitle-font-color;
 }
 h4{
     font-family: $subtitle-font-family;
     font-size: 18pt;
-    color: $color-black;
+    color: $subtitle-font-color;
     margin-top: 0.0em;
     margin-bottom: 0.5em;
 }
 h6{
     font-family: $subtitle-font-family;
     font-size: 14pt;
-    color: $color-grey;
+    color: $date-font-color;
     margin-top: 0.25em;   // extra space before date
     margin-bottom: 0.5em;  // extra space after date
 }
 
+// set line breaks
 hr { 
     display: block;
     border-style: solid;
@@ -207,28 +209,37 @@ hr {
     margin-left: 5px;
     margin-right: 5px;
     border-width: 1px;
-    border-color: $color-grey;
+    border-color: $line-break-color;
 }
 
 // link settings, for index navigation
 // unvisited link
 a:link {
-    color: $color-blue;
+    color: $link-off;
     text-decoration: none;
 }
 // visited link
 a:visited {
-    color: $color-blue;
+    color: $link-off;
     text-decoration: none;
 }
 // mouse over link
 a:hover {
-    color: $color-gold;
+    color: $link-on;
     text-decoration: underline;
 }
 
+// set colors for cursor selection
 ::selection{
-    color: $color-cream;
-    background-color: $color-black;
+    color: $background;
+    background-color: $body-font-color;
+}
+
+// centers youtube embeds, and adds margins
+iframe {
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 

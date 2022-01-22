@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="/assets/style-dark.css">
+    </head>
+
+    <body>
+        <header>
+            <h3><a href="/">Home.</a></h3>
+            {% include navigation.html %}
+        </header>
+
+        <br>
+
+        <body>
+            <h1>{{ page.title }}</h1>
+            <div>
+                {{content}}
+            </div>
+            <hr>
+            
+            <ul>
+                {% for entry in site.diary_entries reversed %}
+                    <li>
+                        <h6>{{ entry.date | date: "%a, %b %d, %Y"}}</h6>
+                        <p>{{ entry.content }}</p>
+                    </li>
+                    <br>
+                {% endfor %}
+            </ul>
+        
+        </body>
+
+        {% include footer.html %}
+        
+    </body>
+
+</html>
