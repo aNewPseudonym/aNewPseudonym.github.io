@@ -2,5 +2,7 @@
   link: /blog/
 - name: "Index."
   link: /index/
+- name: "Diary."
+  link: /diary/
 - name: "About."
   link: /about/
