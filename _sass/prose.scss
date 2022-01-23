@@ -51,16 +51,17 @@
         margin-bottom: 0.5em;
         img {
             vertical-align: top;
-            width: 100%;
+            max-width: 100%;
             margin-bottom: 0em;
         }
         figcaption {
             color: $background;
             background-color: $foreground;
-            padding-top: 0.25em;
-            padding-bottom: 0.25em;
+            // padding-top: 0.25em;
+            // padding-bottom: 0.25em;
+            margin: auto;
             padding-left: 0.5em;
-            padding-right: 0.5em
+            padding-right: 0.5em;
         }
         figcaption.parallax {
             font-family: $title-font-family;
@@ -72,6 +73,21 @@
             text-align: center;
             max-width: 50vw;
             margin: auto;
+        }
+    }
+
+    figure.polaroid{
+        border-color: $color-cream;
+        display: block;
+        width: 60%;
+        figcaption {
+            color: $background;
+            background-color: $color-cream;
+            display: flex;
+            align-items: center;
+            height: 3em;
+            padding-left: 0.5em;
+            padding-right: 0.5em;
         }
     }
 

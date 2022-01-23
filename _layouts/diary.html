@@ -26,7 +26,9 @@
                 {% for entry in site.diary_entries reversed %}
                     <li>
                         <h6>{{ entry.date | date: "%a, %b %d, %Y"}}</h6>
-                        <p>{{ entry.content }}</p>
+                        <div class="prose">
+                            <p>{{ entry.content }}</p>
+                        </div>
                     </li>
                     <br>
                 {% endfor %}
