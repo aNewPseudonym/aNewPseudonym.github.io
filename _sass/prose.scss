@@ -29,6 +29,10 @@
         li {
             margin-left: 2em;
             margin-right: 0%;
+            ul {
+                display: block;
+                list-style-type: none;
+            }
         }
         //custom bullet points
         li::before {
