@@ -11,7 +11,7 @@ function setup() {
 
 function windowResized(){
     resizeCanvas(windowWidth-50, windowHeight-50);
-    background('#FDF9EF');
+    background('#FFFFFF');
 }
 
 function SineWaves() {
@@ -23,7 +23,7 @@ function SineWaves() {
     loopCount = 0;
 
     this.setup = function(){
-        background('#FDF9EF');
+        background('#FFFFFF');
 
         inc = TWO_PI / 100.0;
         y = random(height);
@@ -45,7 +45,7 @@ function SineWaves() {
             y = random(height);
             loopCount += 1;
             if(loopCount > 2){
-                background('#FDF9EF');
+                background('#FFFFFF');
                 loopCount = 0;
                 this.sceneManager.showScene( Walkers );
             }
@@ -104,7 +104,7 @@ function Walkers() {
     }
 
     function reset (){
-        background('#FDF9EF');
+        background('#FFFFFF');
         start = millis();
 
         randomSeed(millis());

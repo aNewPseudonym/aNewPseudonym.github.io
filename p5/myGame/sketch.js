@@ -7,7 +7,7 @@ loopCount = 0;
 
 function setup() {
     var canvas = createCanvas(windowWidth-50, windowHeight-50);
-    background('#FDF9EF');
+    background('#FFFFFF');
     inc = TWO_PI / 100.0;
     y = random(height);
 }
@@ -29,7 +29,7 @@ function draw() {
         y = random(height);
         loopCount += 1;
         if(loopCount > 7){
-            background('#FDF9EF');
+            background('#FFFFFF');
             loopCount = 0;
         }
     }
@@ -38,5 +38,5 @@ function draw() {
 
 function windowResized(){
     resizeCanvas(windowWidth-50, windowHeight-50);
-    background('#FDF9EF');
+    background('#FFFFFF');
 }
